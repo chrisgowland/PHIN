@@ -213,9 +213,27 @@ export default function GeoAnalysis({ siteProcIndex, procedureGroups, groupSiteD
             const nuffieldInCatchment = sitesInRadius.filter(s => s.group === 'Nuffield');
             return (
               <div style={{ display: 'flex', gap: 12, marginBottom: 20, flexWrap: 'wrap', alignItems: 'flex-start' }}>
-                <div className="card" style={{ padding: '12px 18px', marginBottom: 0, flex: '0 0 auto' }}>
+                <div className="card" style={{ padding: '12px 18px', marginBottom: 0, flex: '0 0 auto', minWidth: 200 }}>
                   <div className="kpi-label">Sites in catchment</div>
                   <div className="kpi-value" style={{ fontSize: 20 }}>{sitesInRadius.length}</div>
+                  <div style={{ marginTop: 6, display: 'flex', flexDirection: 'column', gap: 2 }}>
+                    {['Spire', 'Circle', 'Ramsay', 'Other'].map(g => {
+                      const grpSites = sitesInRadius.filter(s => s.group === g);
+                      if (!grpSites.length) return null;
+                      return (
+                        <div key={g} style={{ fontSize: 11, color: '#6b7a90' }}>
+                          <span style={{ display: 'inline-block', width: 8, height: 8, borderRadius: '50%', background: GROUP_COLORS[g], marginRight: 5 }} />
+                          <span style={{ fontWeight: 600, color: '#1a2332' }}>{g}</span>
+                          {' — '}{grpSites.length} site{grpSites.length > 1 ? 's' : ''}
+                          {grpSites.length <= 3 && (
+                            <span style={{ color: '#9b9b9b' }}>
+                              {' '}({grpSites.map(s => s.siteName).join(', ')})
+                            </span>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
                 </div>
                 <div className="card" style={{ padding: '12px 18px', marginBottom: 0, flex: '0 0 auto' }}>
                   <div className="kpi-label">Procedure groups tracked</div>
