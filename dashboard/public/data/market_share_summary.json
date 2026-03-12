@@ -1,0 +1,37 @@
+{
+  "periodFrom": "2024-10-01",
+  "periodTo": "2025-09-30",
+  "totalPrivateSpells": 872030,
+  "byGroup": [
+    {
+      "group": "Nuffield",
+      "privateSpells": 136035,
+      "suppressedSites": 0,
+      "marketSharePct": 15.6
+    },
+    {
+      "group": "Spire",
+      "privateSpells": 188250,
+      "suppressedSites": 0,
+      "marketSharePct": 21.6
+    },
+    {
+      "group": "Circle",
+      "privateSpells": 172095,
+      "suppressedSites": 0,
+      "marketSharePct": 19.7
+    },
+    {
+      "group": "Ramsay",
+      "privateSpells": 58670,
+      "suppressedSites": 0,
+      "marketSharePct": 6.7
+    },
+    {
+      "group": "Other",
+      "privateSpells": 316980,
+      "suppressedSites": 25,
+      "marketSharePct": 36.3
+    }
+  ]
+}

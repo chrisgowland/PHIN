@@ -1,0 +1,12 @@
+node_modules/
+dashboard/node_modules/
+dashboard/dist/
+
+# Raw Excel files are large — store separately, not in git
+data/raw/
+
+# Processed JSON can be regenerated; optionally commit for hosting
+# data/processed/
+
+# Dashboard public data is committed so GitHub Pages can serve it
+# dashboard/public/data/

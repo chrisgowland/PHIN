@@ -1,0 +1,27 @@
+{
+  "name": "phin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ingest": "node pipeline/ingest.js",
+    "ingest:copy": "node pipeline/ingest.js && node pipeline/buildConsultantSummary.js && cp data/processed/market_share_summary.json data/processed/specialty_breakdown.json data/processed/group_site_summary.json data/processed/vol_by_site.json data/processed/top_consultants.json dashboard/public/data/",
+    "dashboard": "cd dashboard && npm run dev",
+    "build": "cd dashboard && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgowland/PHIN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/chrisgowland/PHIN/issues"
+  },
+  "homepage": "https://github.com/chrisgowland/PHIN#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
