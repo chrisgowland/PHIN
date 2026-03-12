@@ -178,7 +178,7 @@ export default function NhsGeoAnalysis({ nhsSiteProcIndex, nhsGroupSiteData }) {
               CATCHMENT RADIUS
             </label>
             <div style={{ display: 'flex', gap: 6 }}>
-              {[15, 30, 50, 100].map(r => (
+              {[5, 15, 30, 50, 100].map(r => (
                 <button
                   key={r}
                   onClick={() => { setRadiusMiles(r); setDrillProc(null); }}

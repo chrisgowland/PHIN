@@ -168,7 +168,7 @@ export default function SiteDetail({ data }) {
           <div className="card" style={{ padding: '14px 20px', marginBottom: 0, marginLeft: 'auto' }}>
             <div className="kpi-label" style={{ marginBottom: 8 }}>LOCAL SHARE RADIUS</div>
             <div style={{ display: 'flex', gap: 6 }}>
-              {[15, 30, 50, 100].map(r => (
+              {[5, 15, 30, 50, 100].map(r => (
                 <button key={r} onClick={() => setRadiusMiles(r)}
                   style={{
                     padding: '6px 12px', borderRadius: 6, border: '1px solid #e0e4ea',
