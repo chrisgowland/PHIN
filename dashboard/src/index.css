@@ -125,6 +125,9 @@ body {
   white-space: nowrap;
   cursor: pointer;
   user-select: none;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 .data-table th:hover { color: var(--text); }
 .data-table th.sort-asc::after  { content: ' ↑'; }
