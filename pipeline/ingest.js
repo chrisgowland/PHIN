@@ -316,6 +316,9 @@ GROUP_ORDER.forEach(g => {
         lng: r.lng,
         privateSpells: r.privateSpells,
         privateEpisodes: r.privateEpisodes,
+        nhsSpells: r.nhsSpells,
+        nhsEpisodes: r.nhsEpisodes,
+        allSpells: r.allSpells,
         monthsProvided: r.monthsProvided,
       })),
   };

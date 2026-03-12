@@ -13,6 +13,9 @@
         "lng": -1.21548,
         "privateSpells": 10155,
         "privateEpisodes": 10155,
+        "nhsSpells": 190,
+        "nhsEpisodes": 190,
+        "allSpells": 10350,
         "monthsProvided": 12
       },
       {
@@ -24,6 +27,9 @@
         "lng": -0.223584,
         "privateSpells": 9555,
         "privateEpisodes": 9555,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 9555,
         "monthsProvided": 12
       },
       {
@@ -35,6 +41,9 @@
         "lng": -0.611106399,
         "privateSpells": 9180,
         "privateEpisodes": 9180,
+        "nhsSpells": 545,
+        "nhsEpisodes": 545,
+        "allSpells": 9725,
         "monthsProvided": 12
       },
       {
@@ -46,6 +55,9 @@
         "lng": 0.124267,
         "privateSpells": 6460,
         "privateEpisodes": 6460,
+        "nhsSpells": 715,
+        "nhsEpisodes": 715,
+        "allSpells": 7180,
         "monthsProvided": 12
       },
       {
@@ -57,6 +69,9 @@
         "lng": -3.3760697,
         "privateSpells": 5540,
         "privateEpisodes": 5540,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -68,6 +83,9 @@
         "lng": -1.54388,
         "privateSpells": 5360,
         "privateEpisodes": 5360,
+        "nhsSpells": 720,
+        "nhsEpisodes": 720,
+        "allSpells": 6075,
         "monthsProvided": 12
       },
       {
@@ -79,6 +97,9 @@
         "lng": -1.5302,
         "privateSpells": 5250,
         "privateEpisodes": 5250,
+        "nhsSpells": 1705,
+        "nhsEpisodes": 1705,
+        "allSpells": 6955,
         "monthsProvided": 12
       },
       {
@@ -90,6 +111,9 @@
         "lng": -1.36313,
         "privateSpells": 5125,
         "privateEpisodes": 5125,
+        "nhsSpells": 1180,
+        "nhsEpisodes": 1180,
+        "allSpells": 6305,
         "monthsProvided": 12
       },
       {
@@ -101,6 +125,9 @@
         "lng": 0.312689,
         "privateSpells": 4990,
         "privateEpisodes": 4990,
+        "nhsSpells": 2020,
+        "nhsEpisodes": 2020,
+        "allSpells": 7010,
         "monthsProvided": 12
       },
       {
@@ -112,6 +139,9 @@
         "lng": 0.0320132,
         "privateSpells": 4720,
         "privateEpisodes": 4720,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 4720,
         "monthsProvided": 12
       },
       {
@@ -123,6 +153,9 @@
         "lng": -1.8698565,
         "privateSpells": 4365,
         "privateEpisodes": 4365,
+        "nhsSpells": 1055,
+        "nhsEpisodes": 1055,
+        "allSpells": 5420,
         "monthsProvided": 12
       },
       {
@@ -134,6 +167,9 @@
         "lng": 0.277797,
         "privateSpells": 4110,
         "privateEpisodes": 4110,
+        "nhsSpells": 545,
+        "nhsEpisodes": 545,
+        "allSpells": 4650,
         "monthsProvided": 12
       },
       {
@@ -145,6 +181,9 @@
         "lng": -0.0819246,
         "privateSpells": 3890,
         "privateEpisodes": 3890,
+        "nhsSpells": 1085,
+        "nhsEpisodes": 1085,
+        "allSpells": 4975,
         "monthsProvided": 12
       },
       {
@@ -156,6 +195,9 @@
         "lng": -1.605275,
         "privateSpells": 3760,
         "privateEpisodes": 3760,
+        "nhsSpells": 1000,
+        "nhsEpisodes": 1000,
+        "allSpells": 4760,
         "monthsProvided": 12
       },
       {
@@ -167,6 +209,9 @@
         "lng": -1.55427,
         "privateSpells": 3600,
         "privateEpisodes": 3600,
+        "nhsSpells": 2415,
+        "nhsEpisodes": 2415,
+        "allSpells": 6010,
         "monthsProvided": 12
       },
       {
@@ -178,6 +223,9 @@
         "lng": 1.22893,
         "privateSpells": 3500,
         "privateEpisodes": 3500,
+        "nhsSpells": 30,
+        "nhsEpisodes": 30,
+        "allSpells": 3530,
         "monthsProvided": 12
       },
       {
@@ -189,6 +237,9 @@
         "lng": -4.30486,
         "privateSpells": 3365,
         "privateEpisodes": 3365,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -200,6 +251,9 @@
         "lng": -2.12992,
         "privateSpells": 3310,
         "privateEpisodes": 3310,
+        "nhsSpells": 125,
+        "nhsEpisodes": 125,
+        "allSpells": 3430,
         "monthsProvided": 12
       },
       {
@@ -211,6 +265,9 @@
         "lng": -2.61599,
         "privateSpells": 3200,
         "privateEpisodes": 3200,
+        "nhsSpells": 1830,
+        "nhsEpisodes": 1830,
+        "allSpells": 5030,
         "monthsProvided": 12
       },
       {
@@ -222,6 +279,9 @@
         "lng": -2.8952223,
         "privateSpells": 3130,
         "privateEpisodes": 3130,
+        "nhsSpells": 945,
+        "nhsEpisodes": 945,
+        "allSpells": 4080,
         "monthsProvided": 12
       },
       {
@@ -233,6 +293,9 @@
         "lng": -3.12719,
         "privateSpells": 2985,
         "privateEpisodes": 2985,
+        "nhsSpells": 700,
+        "nhsEpisodes": 700,
+        "allSpells": 3685,
         "monthsProvided": 12
       },
       {
@@ -244,6 +307,9 @@
         "lng": -3.51129,
         "privateSpells": 2875,
         "privateEpisodes": 2875,
+        "nhsSpells": 520,
+        "nhsEpisodes": 520,
+        "allSpells": 3390,
         "monthsProvided": 12
       },
       {
@@ -255,6 +321,9 @@
         "lng": -2.17154,
         "privateSpells": 2805,
         "privateEpisodes": 2805,
+        "nhsSpells": 1805,
+        "nhsEpisodes": 1805,
+        "allSpells": 4610,
         "monthsProvided": 12
       },
       {
@@ -266,6 +335,9 @@
         "lng": -1.0751385,
         "privateSpells": 2615,
         "privateEpisodes": 2615,
+        "nhsSpells": 1315,
+        "nhsEpisodes": 1315,
+        "allSpells": 3935,
         "monthsProvided": 12
       },
       {
@@ -277,6 +349,9 @@
         "lng": -2.77145,
         "privateSpells": 2230,
         "privateEpisodes": 2230,
+        "nhsSpells": 995,
+        "nhsEpisodes": 995,
+        "allSpells": 3225,
         "monthsProvided": 12
       },
       {
@@ -288,6 +363,9 @@
         "lng": -2.2232991,
         "privateSpells": 2180,
         "privateEpisodes": 2180,
+        "nhsSpells": 2565,
+        "nhsEpisodes": 2565,
+        "allSpells": 4740,
         "monthsProvided": 12
       },
       {
@@ -299,6 +377,9 @@
         "lng": -0.101012145282,
         "privateSpells": 2165,
         "privateEpisodes": 2165,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2165,
         "monthsProvided": 12
       },
       {
@@ -310,6 +391,9 @@
         "lng": -0.561691,
         "privateSpells": 2125,
         "privateEpisodes": 2125,
+        "nhsSpells": 1235,
+        "nhsEpisodes": 1235,
+        "allSpells": 3360,
         "monthsProvided": 12
       },
       {
@@ -321,6 +405,9 @@
         "lng": -0.107028,
         "privateSpells": 2085,
         "privateEpisodes": 2085,
+        "nhsSpells": 620,
+        "nhsEpisodes": 620,
+        "allSpells": 2705,
         "monthsProvided": 12
       },
       {
@@ -332,6 +419,9 @@
         "lng": -4.11446,
         "privateSpells": 2065,
         "privateEpisodes": 2065,
+        "nhsSpells": 2020,
+        "nhsEpisodes": 2020,
+        "allSpells": 4085,
         "monthsProvided": 12
       },
       {
@@ -343,6 +433,9 @@
         "lng": -0.780027,
         "privateSpells": 1945,
         "privateEpisodes": 1945,
+        "nhsSpells": 1885,
+        "nhsEpisodes": 1885,
+        "allSpells": 3830,
         "monthsProvided": 12
       },
       {
@@ -354,6 +447,9 @@
         "lng": -1.0714769,
         "privateSpells": 1860,
         "privateEpisodes": 1860,
+        "nhsSpells": 925,
+        "nhsEpisodes": 925,
+        "allSpells": 2780,
         "monthsProvided": 12
       },
       {
@@ -365,6 +461,9 @@
         "lng": -0.155888,
         "privateSpells": 1610,
         "privateEpisodes": 1610,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1610,
         "monthsProvided": 12
       },
       {
@@ -376,6 +475,9 @@
         "lng": -3.2255899,
         "privateSpells": 1465,
         "privateEpisodes": 1465,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -387,6 +489,9 @@
         "lng": -1.33196,
         "privateSpells": 1320,
         "privateEpisodes": 1320,
+        "nhsSpells": 4355,
+        "nhsEpisodes": 4355,
+        "allSpells": 5675,
         "monthsProvided": 12
       },
       {
@@ -398,6 +503,9 @@
         "lng": -2.69997,
         "privateSpells": 1140,
         "privateEpisodes": 1140,
+        "nhsSpells": 615,
+        "nhsEpisodes": 615,
+        "allSpells": 1750,
         "monthsProvided": 12
       }
     ]
@@ -416,6 +524,9 @@
         "lng": -2.25293,
         "privateSpells": 9755,
         "privateEpisodes": 9755,
+        "nhsSpells": 1315,
+        "nhsEpisodes": 1315,
+        "allSpells": 11070,
         "monthsProvided": 12
       },
       {
@@ -427,6 +538,9 @@
         "lng": -0.331732,
         "privateSpells": 8670,
         "privateEpisodes": 8670,
+        "nhsSpells": 1255,
+        "nhsEpisodes": 1255,
+        "allSpells": 9925,
         "monthsProvided": 12
       },
       {
@@ -438,6 +552,9 @@
         "lng": -1.43273,
         "privateSpells": 8345,
         "privateEpisodes": 8345,
+        "nhsSpells": 1495,
+        "nhsEpisodes": 1495,
+        "allSpells": 9840,
         "monthsProvided": 12
       },
       {
@@ -449,6 +566,9 @@
         "lng": -0.360392,
         "privateSpells": 7930,
         "privateEpisodes": 7930,
+        "nhsSpells": 2060,
+        "nhsEpisodes": 2060,
+        "allSpells": 9990,
         "monthsProvided": 12
       },
       {
@@ -460,6 +580,9 @@
         "lng": -3.26622,
         "privateSpells": 7820,
         "privateEpisodes": 7820,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -471,6 +594,9 @@
         "lng": -1.0834627,
         "privateSpells": 7430,
         "privateEpisodes": 7430,
+        "nhsSpells": 1385,
+        "nhsEpisodes": 1385,
+        "allSpells": 8815,
         "monthsProvided": 12
       },
       {
@@ -482,6 +608,9 @@
         "lng": -3.1416865,
         "privateSpells": 7410,
         "privateEpisodes": 7410,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -493,6 +622,9 @@
         "lng": -1.51393,
         "privateSpells": 7115,
         "privateEpisodes": 7115,
+        "nhsSpells": 2365,
+        "nhsEpisodes": 2365,
+        "allSpells": 9475,
         "monthsProvided": 12
       },
       {
@@ -504,6 +636,9 @@
         "lng": -1.87558,
         "privateSpells": 6625,
         "privateEpisodes": 6625,
+        "nhsSpells": 2585,
+        "nhsEpisodes": 2585,
+        "allSpells": 9210,
         "monthsProvided": 12
       },
       {
@@ -515,6 +650,9 @@
         "lng": -2.61486,
         "privateSpells": 6535,
         "privateEpisodes": 6535,
+        "nhsSpells": 2365,
+        "nhsEpisodes": 2365,
+        "allSpells": 8905,
         "monthsProvided": 12
       },
       {
@@ -526,6 +664,9 @@
         "lng": 0.113364,
         "privateSpells": 6165,
         "privateEpisodes": 6165,
+        "nhsSpells": 1205,
+        "nhsEpisodes": 1205,
+        "allSpells": 7375,
         "monthsProvided": 12
       },
       {
@@ -537,6 +678,9 @@
         "lng": -3.09737,
         "privateSpells": 6150,
         "privateEpisodes": 6150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -548,6 +692,9 @@
         "lng": -0.220275,
         "privateSpells": 6080,
         "privateEpisodes": 6080,
+        "nhsSpells": 860,
+        "nhsEpisodes": 860,
+        "allSpells": 6935,
         "monthsProvided": 12
       },
       {
@@ -559,6 +706,9 @@
         "lng": 1.22575,
         "privateSpells": 6000,
         "privateEpisodes": 6000,
+        "nhsSpells": 895,
+        "nhsEpisodes": 895,
+        "allSpells": 6895,
         "monthsProvided": 12
       },
       {
@@ -570,6 +720,9 @@
         "lng": 0.293116,
         "privateSpells": 5825,
         "privateEpisodes": 5825,
+        "nhsSpells": 2495,
+        "nhsEpisodes": 2495,
+        "allSpells": 8320,
         "monthsProvided": 12
       },
       {
@@ -581,6 +734,9 @@
         "lng": -1.76255,
         "privateSpells": 5825,
         "privateEpisodes": 5825,
+        "nhsSpells": 1565,
+        "nhsEpisodes": 1565,
+        "allSpells": 7385,
         "monthsProvided": 12
       },
       {
@@ -592,6 +748,9 @@
         "lng": -0.95514,
         "privateSpells": 5430,
         "privateEpisodes": 5430,
+        "nhsSpells": 1260,
+        "nhsEpisodes": 1260,
+        "allSpells": 6690,
         "monthsProvided": 12
       },
       {
@@ -603,6 +762,9 @@
         "lng": -0.435027,
         "privateSpells": 5180,
         "privateEpisodes": 5180,
+        "nhsSpells": 7325,
+        "nhsEpisodes": 7325,
+        "allSpells": 12505,
         "monthsProvided": 12
       },
       {
@@ -614,6 +776,9 @@
         "lng": -1.08407,
         "privateSpells": 5035,
         "privateEpisodes": 5035,
+        "nhsSpells": 1265,
+        "nhsEpisodes": 1265,
+        "allSpells": 6300,
         "monthsProvided": 12
       },
       {
@@ -625,6 +790,9 @@
         "lng": -2.57634,
         "privateSpells": 4770,
         "privateEpisodes": 4770,
+        "nhsSpells": 2190,
+        "nhsEpisodes": 2190,
+        "allSpells": 6960,
         "monthsProvided": 12
       },
       {
@@ -636,6 +804,9 @@
         "lng": -0.183397,
         "privateSpells": 4495,
         "privateEpisodes": 4495,
+        "nhsSpells": 2270,
+        "nhsEpisodes": 2270,
+        "allSpells": 6765,
         "monthsProvided": 12
       },
       {
@@ -647,6 +818,9 @@
         "lng": 0.727589,
         "privateSpells": 4355,
         "privateEpisodes": 4355,
+        "nhsSpells": 2845,
+        "nhsEpisodes": 2845,
+        "allSpells": 7200,
         "monthsProvided": 12
       },
       {
@@ -658,6 +832,9 @@
         "lng": -3.08011,
         "privateSpells": 3965,
         "privateEpisodes": 3965,
+        "nhsSpells": 2370,
+        "nhsEpisodes": 2370,
+        "allSpells": 6335,
         "monthsProvided": 12
       },
       {
@@ -669,6 +846,9 @@
         "lng": -0.847488,
         "privateSpells": 3960,
         "privateEpisodes": 3960,
+        "nhsSpells": 715,
+        "nhsEpisodes": 715,
+        "allSpells": 4675,
         "monthsProvided": 12
       },
       {
@@ -680,6 +860,9 @@
         "lng": -3.01411,
         "privateSpells": 3755,
         "privateEpisodes": 3755,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -691,6 +874,9 @@
         "lng": -0.572415,
         "privateSpells": 3655,
         "privateEpisodes": 3655,
+        "nhsSpells": 655,
+        "nhsEpisodes": 655,
+        "allSpells": 4310,
         "monthsProvided": 12
       },
       {
@@ -702,6 +888,9 @@
         "lng": -0.155597,
         "privateSpells": 3625,
         "privateEpisodes": 3625,
+        "nhsSpells": 1870,
+        "nhsEpisodes": 1870,
+        "allSpells": 5490,
         "monthsProvided": 12
       },
       {
@@ -713,6 +902,9 @@
         "lng": -2.21711,
         "privateSpells": 3620,
         "privateEpisodes": 3620,
+        "nhsSpells": 1480,
+        "nhsEpisodes": 1480,
+        "allSpells": 5100,
         "monthsProvided": 12
       },
       {
@@ -724,6 +916,9 @@
         "lng": -0.986821,
         "privateSpells": 3610,
         "privateEpisodes": 3610,
+        "nhsSpells": 870,
+        "nhsEpisodes": 870,
+        "allSpells": 4480,
         "monthsProvided": 12
       },
       {
@@ -735,6 +930,9 @@
         "lng": -1.55912,
         "privateSpells": 3230,
         "privateEpisodes": 3230,
+        "nhsSpells": 6260,
+        "nhsEpisodes": 6260,
+        "allSpells": 9490,
         "monthsProvided": 12
       },
       {
@@ -746,6 +944,9 @@
         "lng": 0.0430636,
         "privateSpells": 2985,
         "privateEpisodes": 2985,
+        "nhsSpells": 3065,
+        "nhsEpisodes": 3065,
+        "allSpells": 6050,
         "monthsProvided": 12
       },
       {
@@ -757,6 +958,9 @@
         "lng": -1.53604,
         "privateSpells": 2690,
         "privateEpisodes": 2690,
+        "nhsSpells": 3230,
+        "nhsEpisodes": 3230,
+        "allSpells": 5920,
         "monthsProvided": 12
       },
       {
@@ -768,6 +972,9 @@
         "lng": -2.13781,
         "privateSpells": 1965,
         "privateEpisodes": 1965,
+        "nhsSpells": 2820,
+        "nhsEpisodes": 2820,
+        "allSpells": 4780,
         "monthsProvided": 12
       },
       {
@@ -779,6 +986,9 @@
         "lng": -2.92412,
         "privateSpells": 1895,
         "privateEpisodes": 1895,
+        "nhsSpells": 6490,
+        "nhsEpisodes": 6490,
+        "allSpells": 8385,
         "monthsProvided": 12
       },
       {
@@ -790,6 +1000,9 @@
         "lng": -1.42333,
         "privateSpells": 1545,
         "privateEpisodes": 1545,
+        "nhsSpells": 3075,
+        "nhsEpisodes": 3075,
+        "allSpells": 4615,
         "monthsProvided": 12
       },
       {
@@ -801,6 +1014,9 @@
         "lng": -1.82893,
         "privateSpells": 1290,
         "privateEpisodes": 1290,
+        "nhsSpells": 3525,
+        "nhsEpisodes": 3525,
+        "allSpells": 4815,
         "monthsProvided": 12
       },
       {
@@ -812,6 +1028,9 @@
         "lng": 0.526527,
         "privateSpells": 1260,
         "privateEpisodes": 1260,
+        "nhsSpells": 3155,
+        "nhsEpisodes": 3155,
+        "allSpells": 4415,
         "monthsProvided": 12
       },
       {
@@ -823,6 +1042,9 @@
         "lng": -3.01959,
         "privateSpells": 1240,
         "privateEpisodes": 1240,
+        "nhsSpells": 5495,
+        "nhsEpisodes": 5495,
+        "allSpells": 6735,
         "monthsProvided": 12
       },
       {
@@ -834,6 +1056,9 @@
         "lng": -3.597424,
         "privateSpells": 965,
         "privateEpisodes": 965,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -845,6 +1070,9 @@
         "lng": -1.518805889872,
         "privateSpells": 50,
         "privateEpisodes": 50,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 50,
         "monthsProvided": 10
       }
     ]
@@ -863,6 +1091,9 @@
         "lng": -4.3649144,
         "privateSpells": 16410,
         "privateEpisodes": 16410,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -874,6 +1105,9 @@
         "lng": -2.21583,
         "privateSpells": 12155,
         "privateEpisodes": 12155,
+        "nhsSpells": 1410,
+        "nhsEpisodes": 1410,
+        "allSpells": 13565,
         "monthsProvided": 12
       },
       {
@@ -885,6 +1119,9 @@
         "lng": -2.11844,
         "privateSpells": 8895,
         "privateEpisodes": 8895,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -896,6 +1133,9 @@
         "lng": -0.332709,
         "privateSpells": 6920,
         "privateEpisodes": 6920,
+        "nhsSpells": 1650,
+        "nhsEpisodes": 1650,
+        "allSpells": 8575,
         "monthsProvided": 12
       },
       {
@@ -907,6 +1147,9 @@
         "lng": -0.61028,
         "privateSpells": 6570,
         "privateEpisodes": 6570,
+        "nhsSpells": 200,
+        "nhsEpisodes": 200,
+        "allSpells": 6770,
         "monthsProvided": 12
       },
       {
@@ -918,6 +1161,9 @@
         "lng": -1.9127819,
         "privateSpells": 6220,
         "privateEpisodes": 6220,
+        "nhsSpells": 620,
+        "nhsEpisodes": 620,
+        "allSpells": 6845,
         "monthsProvided": 12
       },
       {
@@ -929,6 +1175,9 @@
         "lng": -0.564219,
         "privateSpells": 5955,
         "privateEpisodes": 5955,
+        "nhsSpells": 240,
+        "nhsEpisodes": 240,
+        "allSpells": 6195,
         "monthsProvided": 12
       },
       {
@@ -940,6 +1189,9 @@
         "lng": 0.00626505,
         "privateSpells": 5885,
         "privateEpisodes": 5885,
+        "nhsSpells": 1295,
+        "nhsEpisodes": 1295,
+        "allSpells": 7185,
         "monthsProvided": 12
       },
       {
@@ -951,6 +1203,9 @@
         "lng": -1.0638541,
         "privateSpells": 5850,
         "privateEpisodes": 5850,
+        "nhsSpells": 600,
+        "nhsEpisodes": 600,
+        "allSpells": 6450,
         "monthsProvided": 12
       },
       {
@@ -962,6 +1217,9 @@
         "lng": -1.14289,
         "privateSpells": 5540,
         "privateEpisodes": 5540,
+        "nhsSpells": 3260,
+        "nhsEpisodes": 3260,
+        "allSpells": 8805,
         "monthsProvided": 12
       },
       {
@@ -973,6 +1231,9 @@
         "lng": -1.78616,
         "privateSpells": 5005,
         "privateEpisodes": 5005,
+        "nhsSpells": 580,
+        "nhsEpisodes": 580,
+        "allSpells": 5585,
         "monthsProvided": 12
       },
       {
@@ -984,6 +1245,9 @@
         "lng": -0.693669,
         "privateSpells": 4675,
         "privateEpisodes": 4675,
+        "nhsSpells": 580,
+        "nhsEpisodes": 580,
+        "allSpells": 5255,
         "monthsProvided": 12
       },
       {
@@ -995,6 +1259,9 @@
         "lng": -0.976408,
         "privateSpells": 4555,
         "privateEpisodes": 4555,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 4555,
         "monthsProvided": 12
       },
       {
@@ -1006,6 +1273,9 @@
         "lng": -0.524124,
         "privateSpells": 4225,
         "privateEpisodes": 4225,
+        "nhsSpells": 170,
+        "nhsEpisodes": 170,
+        "allSpells": 4390,
         "monthsProvided": 12
       },
       {
@@ -1017,6 +1287,9 @@
         "lng": -1.51732,
         "privateSpells": 3750,
         "privateEpisodes": 3750,
+        "nhsSpells": 1340,
+        "nhsEpisodes": 1340,
+        "allSpells": 5090,
         "monthsProvided": 12
       },
       {
@@ -1028,6 +1301,9 @@
         "lng": 0.1313979,
         "privateSpells": 3605,
         "privateEpisodes": 3605,
+        "nhsSpells": 900,
+        "nhsEpisodes": 900,
+        "allSpells": 4500,
         "monthsProvided": 12
       },
       {
@@ -1039,6 +1315,9 @@
         "lng": 1.08747,
         "privateSpells": 3320,
         "privateEpisodes": 3320,
+        "nhsSpells": 1550,
+        "nhsEpisodes": 1550,
+        "allSpells": 4870,
         "monthsProvided": 12
       },
       {
@@ -1050,6 +1329,9 @@
         "lng": -4.4374648,
         "privateSpells": 3255,
         "privateEpisodes": 3255,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1061,6 +1343,9 @@
         "lng": -2.33204,
         "privateSpells": 3210,
         "privateEpisodes": 3210,
+        "nhsSpells": 1005,
+        "nhsEpisodes": 1005,
+        "allSpells": 4215,
         "monthsProvided": 12
       },
       {
@@ -1072,6 +1357,9 @@
         "lng": -0.0467443,
         "privateSpells": 3155,
         "privateEpisodes": 3155,
+        "nhsSpells": 3485,
+        "nhsEpisodes": 3485,
+        "allSpells": 6640,
         "monthsProvided": 12
       },
       {
@@ -1083,6 +1371,9 @@
         "lng": -0.740364,
         "privateSpells": 3130,
         "privateEpisodes": 3130,
+        "nhsSpells": 385,
+        "nhsEpisodes": 385,
+        "allSpells": 3515,
         "monthsProvided": 12
       },
       {
@@ -1094,6 +1385,9 @@
         "lng": -0.874323,
         "privateSpells": 3045,
         "privateEpisodes": 3045,
+        "nhsSpells": 2210,
+        "nhsEpisodes": 2210,
+        "allSpells": 5255,
         "monthsProvided": 12
       },
       {
@@ -1105,6 +1399,9 @@
         "lng": -0.431833,
         "privateSpells": 2995,
         "privateEpisodes": 2995,
+        "nhsSpells": 1225,
+        "nhsEpisodes": 1225,
+        "allSpells": 4220,
         "monthsProvided": 12
       },
       {
@@ -1116,6 +1413,9 @@
         "lng": -0.056352,
         "privateSpells": 2930,
         "privateEpisodes": 2930,
+        "nhsSpells": 1360,
+        "nhsEpisodes": 1360,
+        "allSpells": 4290,
         "monthsProvided": 12
       },
       {
@@ -1127,6 +1427,9 @@
         "lng": -3.954424,
         "privateSpells": 2880,
         "privateEpisodes": 2880,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1138,6 +1441,9 @@
         "lng": -0.101361,
         "privateSpells": 2670,
         "privateEpisodes": 2670,
+        "nhsSpells": 1110,
+        "nhsEpisodes": 1110,
+        "allSpells": 3780,
         "monthsProvided": 12
       },
       {
@@ -1149,6 +1455,9 @@
         "lng": -1.4385119,
         "privateSpells": 2545,
         "privateEpisodes": 2545,
+        "nhsSpells": 1580,
+        "nhsEpisodes": 1580,
+        "allSpells": 4130,
         "monthsProvided": 12
       },
       {
@@ -1160,6 +1469,9 @@
         "lng": -1.9757,
         "privateSpells": 2495,
         "privateEpisodes": 2495,
+        "nhsSpells": 160,
+        "nhsEpisodes": 160,
+        "allSpells": 2660,
         "monthsProvided": 12
       },
       {
@@ -1171,6 +1483,9 @@
         "lng": -1.50467,
         "privateSpells": 2480,
         "privateEpisodes": 2480,
+        "nhsSpells": 2945,
+        "nhsEpisodes": 2945,
+        "allSpells": 5425,
         "monthsProvided": 12
       },
       {
@@ -1182,6 +1497,9 @@
         "lng": -0.446521,
         "privateSpells": 2435,
         "privateEpisodes": 2435,
+        "nhsSpells": 480,
+        "nhsEpisodes": 480,
+        "allSpells": 2915,
         "monthsProvided": 12
       },
       {
@@ -1193,6 +1511,9 @@
         "lng": -2.1675,
         "privateSpells": 2140,
         "privateEpisodes": 2140,
+        "nhsSpells": 2155,
+        "nhsEpisodes": 2155,
+        "allSpells": 4300,
         "monthsProvided": 12
       },
       {
@@ -1204,6 +1525,9 @@
         "lng": -2.44187,
         "privateSpells": 2085,
         "privateEpisodes": 2085,
+        "nhsSpells": 485,
+        "nhsEpisodes": 485,
+        "allSpells": 2575,
         "monthsProvided": 12
       },
       {
@@ -1215,6 +1539,9 @@
         "lng": -1.3401972,
         "privateSpells": 2080,
         "privateEpisodes": 2080,
+        "nhsSpells": 735,
+        "nhsEpisodes": 735,
+        "allSpells": 2810,
         "monthsProvided": 12
       },
       {
@@ -1226,6 +1553,9 @@
         "lng": -1.54781,
         "privateSpells": 2070,
         "privateEpisodes": 2070,
+        "nhsSpells": 520,
+        "nhsEpisodes": 520,
+        "allSpells": 2595,
         "monthsProvided": 12
       },
       {
@@ -1237,6 +1567,9 @@
         "lng": -0.00436023,
         "privateSpells": 2035,
         "privateEpisodes": 2035,
+        "nhsSpells": 1105,
+        "nhsEpisodes": 1105,
+        "allSpells": 3140,
         "monthsProvided": 12
       },
       {
@@ -1248,6 +1581,9 @@
         "lng": -2.51318,
         "privateSpells": 1920,
         "privateEpisodes": 1920,
+        "nhsSpells": 2560,
+        "nhsEpisodes": 2560,
+        "allSpells": 4480,
         "monthsProvided": 12
       },
       {
@@ -1259,6 +1595,9 @@
         "lng": 0.719386,
         "privateSpells": 1715,
         "privateEpisodes": 1715,
+        "nhsSpells": 635,
+        "nhsEpisodes": 635,
+        "allSpells": 2345,
         "monthsProvided": 12
       },
       {
@@ -1270,6 +1609,9 @@
         "lng": -2.150176,
         "privateSpells": 1710,
         "privateEpisodes": 1710,
+        "nhsSpells": 1565,
+        "nhsEpisodes": 1565,
+        "allSpells": 3280,
         "monthsProvided": 12
       },
       {
@@ -1281,6 +1623,9 @@
         "lng": -0.105568,
         "privateSpells": 1700,
         "privateEpisodes": 1700,
+        "nhsSpells": 440,
+        "nhsEpisodes": 440,
+        "allSpells": 2140,
         "monthsProvided": 12
       },
       {
@@ -1292,6 +1637,9 @@
         "lng": -2.4993039,
         "privateSpells": 1535,
         "privateEpisodes": 1535,
+        "nhsSpells": 2285,
+        "nhsEpisodes": 2285,
+        "allSpells": 3820,
         "monthsProvided": 12
       },
       {
@@ -1303,6 +1651,9 @@
         "lng": -0.532886,
         "privateSpells": 1380,
         "privateEpisodes": 1380,
+        "nhsSpells": 855,
+        "nhsEpisodes": 855,
+        "allSpells": 2235,
         "monthsProvided": 12
       },
       {
@@ -1314,6 +1665,9 @@
         "lng": -0.7555912,
         "privateSpells": 970,
         "privateEpisodes": 970,
+        "nhsSpells": 70,
+        "nhsEpisodes": 70,
+        "allSpells": 1040,
         "monthsProvided": 12
       },
       {
@@ -1325,6 +1679,9 @@
         "lng": 0.7021082,
         "privateSpells": 945,
         "privateEpisodes": 945,
+        "nhsSpells": 1615,
+        "nhsEpisodes": 1615,
+        "allSpells": 2565,
         "monthsProvided": 12
       },
       {
@@ -1336,6 +1693,9 @@
         "lng": -2.79541,
         "privateSpells": 940,
         "privateEpisodes": 940,
+        "nhsSpells": 480,
+        "nhsEpisodes": 480,
+        "allSpells": 1425,
         "monthsProvided": 12
       },
       {
@@ -1347,6 +1707,9 @@
         "lng": -0.5139648,
         "privateSpells": 885,
         "privateEpisodes": 885,
+        "nhsSpells": 400,
+        "nhsEpisodes": 400,
+        "allSpells": 1280,
         "monthsProvided": 12
       },
       {
@@ -1358,6 +1721,9 @@
         "lng": -0.224712,
         "privateSpells": 655,
         "privateEpisodes": 655,
+        "nhsSpells": 560,
+        "nhsEpisodes": 560,
+        "allSpells": 1215,
         "monthsProvided": 12
       },
       {
@@ -1369,6 +1735,9 @@
         "lng": -1.8001838,
         "privateSpells": 530,
         "privateEpisodes": 530,
+        "nhsSpells": 1300,
+        "nhsEpisodes": 1300,
+        "allSpells": 1825,
         "monthsProvided": 12
       },
       {
@@ -1380,6 +1749,9 @@
         "lng": -2.4728409,
         "privateSpells": 40,
         "privateEpisodes": 40,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 40,
         "monthsProvided": 9
       }
     ]
@@ -1398,6 +1770,9 @@
         "lng": 0.130457,
         "privateSpells": 6290,
         "privateEpisodes": 6290,
+        "nhsSpells": 7895,
+        "nhsEpisodes": 7895,
+        "allSpells": 14180,
         "monthsProvided": 12
       },
       {
@@ -1409,6 +1784,9 @@
         "lng": 0.484968,
         "privateSpells": 5630,
         "privateEpisodes": 5630,
+        "nhsSpells": 5745,
+        "nhsEpisodes": 5745,
+        "allSpells": 11375,
         "monthsProvided": 12
       },
       {
@@ -1420,6 +1798,9 @@
         "lng": 0.894979,
         "privateSpells": 4700,
         "privateEpisodes": 4700,
+        "nhsSpells": 3715,
+        "nhsEpisodes": 3715,
+        "allSpells": 8415,
         "monthsProvided": 12
       },
       {
@@ -1431,6 +1812,9 @@
         "lng": -0.297549,
         "privateSpells": 4110,
         "privateEpisodes": 4110,
+        "nhsSpells": 7835,
+        "nhsEpisodes": 7835,
+        "allSpells": 11950,
         "monthsProvided": 12
       },
       {
@@ -1442,6 +1826,9 @@
         "lng": -0.303292,
         "privateSpells": 3180,
         "privateEpisodes": 3180,
+        "nhsSpells": 3210,
+        "nhsEpisodes": 3210,
+        "allSpells": 6390,
         "monthsProvided": 12
       },
       {
@@ -1453,6 +1840,9 @@
         "lng": -0.262986,
         "privateSpells": 3165,
         "privateEpisodes": 3165,
+        "nhsSpells": 3535,
+        "nhsEpisodes": 3535,
+        "allSpells": 6700,
         "monthsProvided": 12
       },
       {
@@ -1464,6 +1854,9 @@
         "lng": -5.09357,
         "privateSpells": 3020,
         "privateEpisodes": 3020,
+        "nhsSpells": 3270,
+        "nhsEpisodes": 3270,
+        "allSpells": 6290,
         "monthsProvided": 12
       },
       {
@@ -1475,6 +1868,9 @@
         "lng": -2.23939,
         "privateSpells": 2655,
         "privateEpisodes": 2655,
+        "nhsSpells": 3125,
+        "nhsEpisodes": 3125,
+        "allSpells": 5780,
         "monthsProvided": 12
       },
       {
@@ -1486,6 +1882,9 @@
         "lng": -1.8181,
         "privateSpells": 2455,
         "privateEpisodes": 2455,
+        "nhsSpells": 13885,
+        "nhsEpisodes": 13890,
+        "allSpells": 16345,
         "monthsProvided": 12
       },
       {
@@ -1497,6 +1896,9 @@
         "lng": -0.769713,
         "privateSpells": 2275,
         "privateEpisodes": 2275,
+        "nhsSpells": 5035,
+        "nhsEpisodes": 5035,
+        "allSpells": 7310,
         "monthsProvided": 12
       },
       {
@@ -1508,6 +1910,9 @@
         "lng": -0.988281,
         "privateSpells": 1915,
         "privateEpisodes": 1915,
+        "nhsSpells": 2635,
+        "nhsEpisodes": 2635,
+        "allSpells": 4550,
         "monthsProvided": 12
       },
       {
@@ -1519,6 +1924,9 @@
         "lng": -1.76354,
         "privateSpells": 1895,
         "privateEpisodes": 1895,
+        "nhsSpells": 6860,
+        "nhsEpisodes": 6860,
+        "allSpells": 8755,
         "monthsProvided": 12
       },
       {
@@ -1530,6 +1938,9 @@
         "lng": -1.13863,
         "privateSpells": 1510,
         "privateEpisodes": 1510,
+        "nhsSpells": 8625,
+        "nhsEpisodes": 8625,
+        "allSpells": 10135,
         "monthsProvided": 12
       },
       {
@@ -1541,6 +1952,9 @@
         "lng": -3.4673571,
         "privateSpells": 1490,
         "privateEpisodes": 1490,
+        "nhsSpells": 995,
+        "nhsEpisodes": 995,
+        "allSpells": 2480,
         "monthsProvided": 12
       },
       {
@@ -1552,6 +1966,9 @@
         "lng": -3.54176,
         "privateSpells": 1340,
         "privateEpisodes": 1340,
+        "nhsSpells": 4140,
+        "nhsEpisodes": 4140,
+        "allSpells": 5475,
         "monthsProvided": 12
       },
       {
@@ -1563,6 +1980,9 @@
         "lng": -0.0791526,
         "privateSpells": 1260,
         "privateEpisodes": 1260,
+        "nhsSpells": 2640,
+        "nhsEpisodes": 2640,
+        "allSpells": 3900,
         "monthsProvided": 12
       },
       {
@@ -1574,6 +1994,9 @@
         "lng": -1.11162,
         "privateSpells": 1180,
         "privateEpisodes": 1180,
+        "nhsSpells": 1490,
+        "nhsEpisodes": 1490,
+        "allSpells": 2675,
         "monthsProvided": 12
       },
       {
@@ -1585,6 +2008,9 @@
         "lng": -2.9507,
         "privateSpells": 1005,
         "privateEpisodes": 1005,
+        "nhsSpells": 6915,
+        "nhsEpisodes": 6915,
+        "allSpells": 7920,
         "monthsProvided": 12
       },
       {
@@ -1596,6 +2022,9 @@
         "lng": -2.32106,
         "privateSpells": 965,
         "privateEpisodes": 965,
+        "nhsSpells": 6955,
+        "nhsEpisodes": 6955,
+        "allSpells": 7920,
         "monthsProvided": 12
       },
       {
@@ -1607,6 +2036,9 @@
         "lng": -2.68404,
         "privateSpells": 950,
         "privateEpisodes": 950,
+        "nhsSpells": 9810,
+        "nhsEpisodes": 9810,
+        "allSpells": 10760,
         "monthsProvided": 12
       },
       {
@@ -1618,6 +2050,9 @@
         "lng": -2.07667,
         "privateSpells": 920,
         "privateEpisodes": 920,
+        "nhsSpells": 4305,
+        "nhsEpisodes": 4305,
+        "allSpells": 5225,
         "monthsProvided": 12
       },
       {
@@ -1629,6 +2064,9 @@
         "lng": -1.2501017,
         "privateSpells": 895,
         "privateEpisodes": 895,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 895,
         "monthsProvided": 12
       },
       {
@@ -1640,6 +2078,9 @@
         "lng": -0.73363,
         "privateSpells": 865,
         "privateEpisodes": 865,
+        "nhsSpells": 5655,
+        "nhsEpisodes": 5655,
+        "allSpells": 6515,
         "monthsProvided": 12
       },
       {
@@ -1651,6 +2092,9 @@
         "lng": -2.12628,
         "privateSpells": 785,
         "privateEpisodes": 785,
+        "nhsSpells": 2995,
+        "nhsEpisodes": 2995,
+        "allSpells": 3780,
         "monthsProvided": 12
       },
       {
@@ -1662,6 +2106,9 @@
         "lng": -2.67631,
         "privateSpells": 710,
         "privateEpisodes": 710,
+        "nhsSpells": 4225,
+        "nhsEpisodes": 4225,
+        "allSpells": 4935,
         "monthsProvided": 12
       },
       {
@@ -1673,6 +2120,9 @@
         "lng": -2.6740434,
         "privateSpells": 560,
         "privateEpisodes": 560,
+        "nhsSpells": 6610,
+        "nhsEpisodes": 6610,
+        "allSpells": 7165,
         "monthsProvided": 12
       },
       {
@@ -1684,6 +2134,9 @@
         "lng": -1.11394,
         "privateSpells": 545,
         "privateEpisodes": 545,
+        "nhsSpells": 2300,
+        "nhsEpisodes": 2300,
+        "allSpells": 2845,
         "monthsProvided": 12
       },
       {
@@ -1695,6 +2148,9 @@
         "lng": -1.923,
         "privateSpells": 510,
         "privateEpisodes": 510,
+        "nhsSpells": 3945,
+        "nhsEpisodes": 3945,
+        "allSpells": 4460,
         "monthsProvided": 12
       },
       {
@@ -1706,6 +2162,9 @@
         "lng": -1.51046,
         "privateSpells": 425,
         "privateEpisodes": 425,
+        "nhsSpells": 5030,
+        "nhsEpisodes": 5030,
+        "allSpells": 5455,
         "monthsProvided": 12
       },
       {
@@ -1717,6 +2176,9 @@
         "lng": -1.33666,
         "privateSpells": 410,
         "privateEpisodes": 410,
+        "nhsSpells": 4140,
+        "nhsEpisodes": 4140,
+        "allSpells": 4550,
         "monthsProvided": 12
       },
       {
@@ -1728,6 +2190,9 @@
         "lng": -2.0742207,
         "privateSpells": 355,
         "privateEpisodes": 355,
+        "nhsSpells": 4230,
+        "nhsEpisodes": 4230,
+        "allSpells": 4585,
         "monthsProvided": 12
       },
       {
@@ -1739,6 +2204,9 @@
         "lng": -0.742697,
         "privateSpells": 260,
         "privateEpisodes": 260,
+        "nhsSpells": 3985,
+        "nhsEpisodes": 3985,
+        "allSpells": 4245,
         "monthsProvided": 12
       },
       {
@@ -1750,6 +2218,9 @@
         "lng": -2.1528412,
         "privateSpells": 240,
         "privateEpisodes": 240,
+        "nhsSpells": 2700,
+        "nhsEpisodes": 2700,
+        "allSpells": 2940,
         "monthsProvided": 12
       },
       {
@@ -1761,6 +2232,9 @@
         "lng": -0.0332395,
         "privateSpells": 200,
         "privateEpisodes": 200,
+        "nhsSpells": 3820,
+        "nhsEpisodes": 3820,
+        "allSpells": 4020,
         "monthsProvided": 12
       }
     ]
@@ -1779,6 +2253,9 @@
         "lng": -0.150076,
         "privateSpells": 21965,
         "privateEpisodes": 21965,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 21965,
         "monthsProvided": 12
       },
       {
@@ -1790,6 +2267,9 @@
         "lng": -0.085893,
         "privateSpells": 20090,
         "privateEpisodes": 20090,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 20090,
         "monthsProvided": 12
       },
       {
@@ -1801,6 +2281,9 @@
         "lng": -0.148194,
         "privateSpells": 16590,
         "privateEpisodes": 16590,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 16590,
         "monthsProvided": 12
       },
       {
@@ -1812,6 +2295,9 @@
         "lng": -0.191377,
         "privateSpells": 15455,
         "privateEpisodes": 15575,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15455,
         "monthsProvided": 12
       },
       {
@@ -1823,6 +2309,9 @@
         "lng": -0.148524,
         "privateSpells": 13705,
         "privateEpisodes": 15730,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 13705,
         "monthsProvided": 12
       },
       {
@@ -1834,6 +2323,9 @@
         "lng": -0.152928,
         "privateSpells": 12875,
         "privateEpisodes": 12875,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 12875,
         "monthsProvided": 12
       },
       {
@@ -1845,6 +2337,9 @@
         "lng": -0.171472,
         "privateSpells": 12100,
         "privateEpisodes": 12100,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 12100,
         "monthsProvided": 12
       },
       {
@@ -1856,6 +2351,9 @@
         "lng": -5.96468,
         "privateSpells": 10135,
         "privateEpisodes": 10135,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1867,6 +2365,9 @@
         "lng": -0.1443368,
         "privateSpells": 9750,
         "privateEpisodes": 9750,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 9750,
         "monthsProvided": 12
       },
       {
@@ -1878,6 +2379,9 @@
         "lng": -0.1480936,
         "privateSpells": 8240,
         "privateEpisodes": 8240,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 8240,
         "monthsProvided": 12
       },
       {
@@ -1889,6 +2393,9 @@
         "lng": -0.148253,
         "privateSpells": 6990,
         "privateEpisodes": 6990,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 6990,
         "monthsProvided": 12
       },
       {
@@ -1900,6 +2407,9 @@
         "lng": -0.175085,
         "privateSpells": 6905,
         "privateEpisodes": 6950,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 6905,
         "monthsProvided": 12
       },
       {
@@ -1911,6 +2421,9 @@
         "lng": 0.556711,
         "privateSpells": 6390,
         "privateEpisodes": 6390,
+        "nhsSpells": 3720,
+        "nhsEpisodes": 3720,
+        "allSpells": 10105,
         "monthsProvided": 12
       },
       {
@@ -1922,6 +2435,9 @@
         "lng": -5.946102,
         "privateSpells": 6200,
         "privateEpisodes": 6200,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1933,6 +2449,9 @@
         "lng": 0.6154622,
         "privateSpells": 6070,
         "privateEpisodes": 6070,
+        "nhsSpells": 2845,
+        "nhsEpisodes": 2845,
+        "allSpells": 8910,
         "monthsProvided": 12
       },
       {
@@ -1944,6 +2463,9 @@
         "lng": -0.254289,
         "privateSpells": 5695,
         "privateEpisodes": 5695,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 5695,
         "monthsProvided": 12
       },
       {
@@ -1955,6 +2477,9 @@
         "lng": -3.005,
         "privateSpells": 5510,
         "privateEpisodes": 5510,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1966,6 +2491,9 @@
         "lng": -0.1501188,
         "privateSpells": 5150,
         "privateEpisodes": 5150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 5150,
         "monthsProvided": 12
       },
       {
@@ -1977,6 +2505,9 @@
         "lng": -0.085893,
         "privateSpells": 4905,
         "privateEpisodes": 4905,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 4905,
         "monthsProvided": 12
       },
       {
@@ -1988,6 +2519,9 @@
         "lng": -7.0171,
         "privateSpells": 4620,
         "privateEpisodes": 4620,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -1999,6 +2533,9 @@
         "lng": -3.9254616,
         "privateSpells": 4045,
         "privateEpisodes": 4045,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2010,6 +2547,9 @@
         "lng": -0.150325,
         "privateSpells": 3885,
         "privateEpisodes": 3885,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3885,
         "monthsProvided": 12
       },
       {
@@ -2021,6 +2561,9 @@
         "lng": -2.23012,
         "privateSpells": 3845,
         "privateEpisodes": 3845,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3845,
         "monthsProvided": 12
       },
       {
@@ -2032,6 +2575,9 @@
         "lng": -0.2568807,
         "privateSpells": 3505,
         "privateEpisodes": 3505,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3505,
         "monthsProvided": 12
       },
       {
@@ -2043,6 +2589,9 @@
         "lng": -0.150694,
         "privateSpells": 3435,
         "privateEpisodes": 3435,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3435,
         "monthsProvided": 12
       },
       {
@@ -2054,6 +2603,9 @@
         "lng": -0.1480936,
         "privateSpells": 3335,
         "privateEpisodes": 3335,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3335,
         "monthsProvided": 12
       },
       {
@@ -2065,6 +2617,9 @@
         "lng": -2.2296636,
         "privateSpells": 3195,
         "privateEpisodes": 3195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3195,
         "monthsProvided": 12
       },
       {
@@ -2076,6 +2631,9 @@
         "lng": -1.941555,
         "privateSpells": 3130,
         "privateEpisodes": 3130,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 3130,
         "monthsProvided": 12
       },
       {
@@ -2087,6 +2645,9 @@
         "lng": -0.153513,
         "privateSpells": 2985,
         "privateEpisodes": 2985,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2985,
         "monthsProvided": 12
       },
       {
@@ -2098,6 +2659,9 @@
         "lng": -0.149854,
         "privateSpells": 2925,
         "privateEpisodes": 2925,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2925,
         "monthsProvided": 12
       },
       {
@@ -2109,6 +2673,9 @@
         "lng": -0.147043,
         "privateSpells": 2610,
         "privateEpisodes": 2610,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2610,
         "monthsProvided": 12
       },
       {
@@ -2120,6 +2687,9 @@
         "lng": -3.391885,
         "privateSpells": 2510,
         "privateEpisodes": 2510,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2131,6 +2701,9 @@
         "lng": -0.1698581,
         "privateSpells": 2260,
         "privateEpisodes": 2260,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2260,
         "monthsProvided": 12
       },
       {
@@ -2142,6 +2715,9 @@
         "lng": -2.63836,
         "privateSpells": 2185,
         "privateEpisodes": 2185,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2185,
         "monthsProvided": 12
       },
       {
@@ -2153,6 +2729,9 @@
         "lng": -0.1477909,
         "privateSpells": 2130,
         "privateEpisodes": 2130,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 2130,
         "monthsProvided": 12
       },
       {
@@ -2164,6 +2743,9 @@
         "lng": -0.1714235,
         "privateSpells": 1925,
         "privateEpisodes": 1925,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1925,
         "monthsProvided": 12
       },
       {
@@ -2175,6 +2757,9 @@
         "lng": -0.2363561,
         "privateSpells": 1815,
         "privateEpisodes": 1815,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1815,
         "monthsProvided": 12
       },
       {
@@ -2186,6 +2771,9 @@
         "lng": -2.23483,
         "privateSpells": 1805,
         "privateEpisodes": 1805,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1805,
         "monthsProvided": 12
       },
       {
@@ -2197,6 +2785,9 @@
         "lng": 0.911611,
         "privateSpells": 1745,
         "privateEpisodes": 1745,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1745,
         "monthsProvided": 12
       },
       {
@@ -2208,6 +2799,9 @@
         "lng": -1.804462,
         "privateSpells": 1615,
         "privateEpisodes": 1615,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1615,
         "monthsProvided": 12
       },
       {
@@ -2219,6 +2813,9 @@
         "lng": -1.33099,
         "privateSpells": 1505,
         "privateEpisodes": 1505,
+        "nhsSpells": 695,
+        "nhsEpisodes": 695,
+        "allSpells": 2195,
         "monthsProvided": 12
       },
       {
@@ -2230,6 +2827,9 @@
         "lng": -0.0023485,
         "privateSpells": 1445,
         "privateEpisodes": 1445,
+        "nhsSpells": 820,
+        "nhsEpisodes": 820,
+        "allSpells": 2270,
         "monthsProvided": 12
       },
       {
@@ -2241,6 +2841,9 @@
         "lng": -0.1888164,
         "privateSpells": 1440,
         "privateEpisodes": 1440,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1440,
         "monthsProvided": 12
       },
       {
@@ -2252,6 +2855,9 @@
         "lng": -0.158526,
         "privateSpells": 1415,
         "privateEpisodes": 1415,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1415,
         "monthsProvided": 12
       },
       {
@@ -2263,6 +2869,9 @@
         "lng": -2.27856,
         "privateSpells": 1340,
         "privateEpisodes": 1340,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1340,
         "monthsProvided": 12
       },
       {
@@ -2274,6 +2883,9 @@
         "lng": -0.14859,
         "privateSpells": 1215,
         "privateEpisodes": 1215,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1215,
         "monthsProvided": 12
       },
       {
@@ -2285,6 +2897,9 @@
         "lng": -0.1389958,
         "privateSpells": 1180,
         "privateEpisodes": 1325,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1180,
         "monthsProvided": 12
       },
       {
@@ -2296,6 +2911,9 @@
         "lng": -0.1465176,
         "privateSpells": 1045,
         "privateEpisodes": 1045,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1045,
         "monthsProvided": 12
       },
       {
@@ -2307,6 +2925,9 @@
         "lng": -0.430969,
         "privateSpells": 1045,
         "privateEpisodes": 1045,
+        "nhsSpells": 20,
+        "nhsEpisodes": 20,
+        "allSpells": 1065,
         "monthsProvided": 12
       },
       {
@@ -2318,6 +2939,9 @@
         "lng": -0.1471088,
         "privateSpells": 1020,
         "privateEpisodes": 1020,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 1020,
         "monthsProvided": 12
       },
       {
@@ -2329,6 +2953,9 @@
         "lng": -3.5971544,
         "privateSpells": 1010,
         "privateEpisodes": 1010,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2340,6 +2967,9 @@
         "lng": -4.277008393076,
         "privateSpells": 965,
         "privateEpisodes": 965,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 9
       },
       {
@@ -2351,6 +2981,9 @@
         "lng": -1.24769,
         "privateSpells": 955,
         "privateEpisodes": 955,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 955,
         "monthsProvided": 12
       },
       {
@@ -2362,6 +2995,9 @@
         "lng": -0.149463,
         "privateSpells": 945,
         "privateEpisodes": 945,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 945,
         "monthsProvided": 12
       },
       {
@@ -2373,6 +3009,9 @@
         "lng": 0.142785,
         "privateSpells": 885,
         "privateEpisodes": 885,
+        "nhsSpells": 3050,
+        "nhsEpisodes": 3050,
+        "allSpells": 3940,
         "monthsProvided": 12
       },
       {
@@ -2384,6 +3023,9 @@
         "lng": -2.71111,
         "privateSpells": 865,
         "privateEpisodes": 865,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 865,
         "monthsProvided": 10
       },
       {
@@ -2395,6 +3037,9 @@
         "lng": -1.1025,
         "privateSpells": 860,
         "privateEpisodes": 860,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 860,
         "monthsProvided": 12
       },
       {
@@ -2406,6 +3051,9 @@
         "lng": -0.613181,
         "privateSpells": 845,
         "privateEpisodes": 845,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 845,
         "monthsProvided": 12
       },
       {
@@ -2417,6 +3065,9 @@
         "lng": -2.7204221,
         "privateSpells": 815,
         "privateEpisodes": 815,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 815,
         "monthsProvided": 12
       },
       {
@@ -2428,6 +3079,9 @@
         "lng": -6.08373,
         "privateSpells": 765,
         "privateEpisodes": 765,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2439,6 +3093,9 @@
         "lng": -2.25056,
         "privateSpells": 715,
         "privateEpisodes": 715,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 715,
         "monthsProvided": 12
       },
       {
@@ -2450,6 +3107,9 @@
         "lng": 0.188172,
         "privateSpells": 700,
         "privateEpisodes": 700,
+        "nhsSpells": 1790,
+        "nhsEpisodes": 1800,
+        "allSpells": 2490,
         "monthsProvided": 12
       },
       {
@@ -2461,6 +3121,9 @@
         "lng": -2.75007,
         "privateSpells": 690,
         "privateEpisodes": 690,
+        "nhsSpells": 1640,
+        "nhsEpisodes": 1640,
+        "allSpells": 2330,
         "monthsProvided": 12
       },
       {
@@ -2472,6 +3135,9 @@
         "lng": -5.93974,
         "privateSpells": 685,
         "privateEpisodes": 685,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2483,6 +3149,9 @@
         "lng": 0.1165309,
         "privateSpells": 680,
         "privateEpisodes": 680,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 680,
         "monthsProvided": 12
       },
       {
@@ -2494,6 +3163,9 @@
         "lng": -1.92018,
         "privateSpells": 675,
         "privateEpisodes": 675,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 675,
         "monthsProvided": 12
       },
       {
@@ -2505,6 +3177,9 @@
         "lng": -3.5311242,
         "privateSpells": 670,
         "privateEpisodes": 670,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2516,6 +3191,9 @@
         "lng": -0.1480936,
         "privateSpells": 655,
         "privateEpisodes": 655,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 655,
         "monthsProvided": 12
       },
       {
@@ -2527,6 +3205,9 @@
         "lng": -2.48431,
         "privateSpells": 645,
         "privateEpisodes": 645,
+        "nhsSpells": 13285,
+        "nhsEpisodes": 13285,
+        "allSpells": 13930,
         "monthsProvided": 12
       },
       {
@@ -2538,6 +3219,9 @@
         "lng": -0.0738201,
         "privateSpells": 635,
         "privateEpisodes": 635,
+        "nhsSpells": 820,
+        "nhsEpisodes": 820,
+        "allSpells": 1455,
         "monthsProvided": 12
       },
       {
@@ -2549,6 +3233,9 @@
         "lng": -1.0812529,
         "privateSpells": 620,
         "privateEpisodes": 620,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 620,
         "monthsProvided": 12
       },
       {
@@ -2560,6 +3247,9 @@
         "lng": -0.1458491,
         "privateSpells": 620,
         "privateEpisodes": 620,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 620,
         "monthsProvided": 12
       },
       {
@@ -2571,6 +3261,9 @@
         "lng": -1.28308,
         "privateSpells": 585,
         "privateEpisodes": 585,
+        "nhsSpells": 3955,
+        "nhsEpisodes": 3960,
+        "allSpells": 4545,
         "monthsProvided": 12
       },
       {
@@ -2582,6 +3275,9 @@
         "lng": -6.079872,
         "privateSpells": 580,
         "privateEpisodes": 580,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2593,6 +3289,9 @@
         "lng": -0.1570689,
         "privateSpells": 570,
         "privateEpisodes": 570,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 570,
         "monthsProvided": 12
       },
       {
@@ -2604,6 +3303,9 @@
         "lng": -1.7104083,
         "privateSpells": 560,
         "privateEpisodes": 560,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 560,
         "monthsProvided": 12
       },
       {
@@ -2615,6 +3317,9 @@
         "lng": -4.2521816,
         "privateSpells": 545,
         "privateEpisodes": 555,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2626,6 +3331,9 @@
         "lng": -3.2435,
         "privateSpells": 495,
         "privateEpisodes": 495,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2637,6 +3345,9 @@
         "lng": -2.60553,
         "privateSpells": 485,
         "privateEpisodes": 485,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 485,
         "monthsProvided": 12
       },
       {
@@ -2648,6 +3359,9 @@
         "lng": -1.215751613892,
         "privateSpells": 470,
         "privateEpisodes": 470,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 470,
         "monthsProvided": 12
       },
       {
@@ -2659,6 +3373,9 @@
         "lng": -1.3057989,
         "privateSpells": 465,
         "privateEpisodes": 465,
+        "nhsSpells": 1865,
+        "nhsEpisodes": 1865,
+        "allSpells": 2330,
         "monthsProvided": 12
       },
       {
@@ -2670,6 +3387,9 @@
         "lng": -0.1913567,
         "privateSpells": 460,
         "privateEpisodes": 460,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 460,
         "monthsProvided": 12
       },
       {
@@ -2681,6 +3401,9 @@
         "lng": -0.1471942,
         "privateSpells": 460,
         "privateEpisodes": 460,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 460,
         "monthsProvided": 12
       },
       {
@@ -2692,6 +3415,9 @@
         "lng": -0.356490810953,
         "privateSpells": 445,
         "privateEpisodes": 445,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 445,
         "monthsProvided": 12
       },
       {
@@ -2703,6 +3429,9 @@
         "lng": -0.03717724301,
         "privateSpells": 435,
         "privateEpisodes": 435,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 435,
         "monthsProvided": 12
       },
       {
@@ -2714,6 +3443,9 @@
         "lng": -0.2794478,
         "privateSpells": 435,
         "privateEpisodes": 435,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 435,
         "monthsProvided": 12
       },
       {
@@ -2725,6 +3457,9 @@
         "lng": -2.15474,
         "privateSpells": 435,
         "privateEpisodes": 435,
+        "nhsSpells": 2420,
+        "nhsEpisodes": 2420,
+        "allSpells": 2855,
         "monthsProvided": 12
       },
       {
@@ -2736,6 +3471,9 @@
         "lng": -0.1402663,
         "privateSpells": 430,
         "privateEpisodes": 430,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 430,
         "monthsProvided": 12
       },
       {
@@ -2747,6 +3485,9 @@
         "lng": -2.6230624,
         "privateSpells": 425,
         "privateEpisodes": 425,
+        "nhsSpells": 1190,
+        "nhsEpisodes": 1190,
+        "allSpells": 1615,
         "monthsProvided": 12
       },
       {
@@ -2758,6 +3499,9 @@
         "lng": -2.1977756,
         "privateSpells": 410,
         "privateEpisodes": 410,
+        "nhsSpells": 3825,
+        "nhsEpisodes": 3825,
+        "allSpells": 4235,
         "monthsProvided": 12
       },
       {
@@ -2769,6 +3513,9 @@
         "lng": -4.11769,
         "privateSpells": 405,
         "privateEpisodes": 405,
+        "nhsSpells": 6315,
+        "nhsEpisodes": 6320,
+        "allSpells": 6720,
         "monthsProvided": 12
       },
       {
@@ -2780,6 +3527,9 @@
         "lng": -2.56283,
         "privateSpells": 400,
         "privateEpisodes": 400,
+        "nhsSpells": 8750,
+        "nhsEpisodes": 8750,
+        "allSpells": 9150,
         "monthsProvided": 12
       },
       {
@@ -2791,6 +3541,9 @@
         "lng": -4.2612212,
         "privateSpells": 400,
         "privateEpisodes": 400,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2802,6 +3555,9 @@
         "lng": -2.26611,
         "privateSpells": 395,
         "privateEpisodes": 395,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 395,
         "monthsProvided": 12
       },
       {
@@ -2813,6 +3569,9 @@
         "lng": 1.38793,
         "privateSpells": 395,
         "privateEpisodes": 395,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 395,
         "monthsProvided": 12
       },
       {
@@ -2824,6 +3583,9 @@
         "lng": -2.2449355,
         "privateSpells": 390,
         "privateEpisodes": 390,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 390,
         "monthsProvided": 12
       },
       {
@@ -2835,6 +3597,9 @@
         "lng": -2.7226054,
         "privateSpells": 375,
         "privateEpisodes": 375,
+        "nhsSpells": 2035,
+        "nhsEpisodes": 2035,
+        "allSpells": 2410,
         "monthsProvided": 12
       },
       {
@@ -2846,6 +3611,9 @@
         "lng": -2.1199127,
         "privateSpells": 370,
         "privateEpisodes": 370,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2857,6 +3625,9 @@
         "lng": -2.21198,
         "privateSpells": 355,
         "privateEpisodes": 355,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 355,
         "monthsProvided": 12
       },
       {
@@ -2868,6 +3639,9 @@
         "lng": -1.89065,
         "privateSpells": 350,
         "privateEpisodes": 350,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 350,
         "monthsProvided": 12
       },
       {
@@ -2879,6 +3653,9 @@
         "lng": -1.158618,
         "privateSpells": 350,
         "privateEpisodes": 350,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 350,
         "monthsProvided": 12
       },
       {
@@ -2890,6 +3667,9 @@
         "lng": -0.147043,
         "privateSpells": 340,
         "privateEpisodes": 340,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 340,
         "monthsProvided": 12
       },
       {
@@ -2901,6 +3681,9 @@
         "lng": -1.4038033,
         "privateSpells": 340,
         "privateEpisodes": 340,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 340,
         "monthsProvided": 12
       },
       {
@@ -2912,6 +3695,9 @@
         "lng": -3.1737333,
         "privateSpells": 335,
         "privateEpisodes": 335,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2923,6 +3709,9 @@
         "lng": -3.2025252,
         "privateSpells": 325,
         "privateEpisodes": 325,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -2934,6 +3723,9 @@
         "lng": -1.6408704,
         "privateSpells": 325,
         "privateEpisodes": 325,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 325,
         "monthsProvided": 12
       },
       {
@@ -2945,6 +3737,9 @@
         "lng": -1.7127738,
         "privateSpells": 320,
         "privateEpisodes": 320,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 320,
         "monthsProvided": 12
       },
       {
@@ -2956,6 +3751,9 @@
         "lng": 0.916209,
         "privateSpells": 295,
         "privateEpisodes": 295,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 295,
         "monthsProvided": 12
       },
       {
@@ -2967,6 +3765,9 @@
         "lng": -1.2563936,
         "privateSpells": 290,
         "privateEpisodes": 290,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 290,
         "monthsProvided": 12
       },
       {
@@ -2978,6 +3779,9 @@
         "lng": -2.032341608374,
         "privateSpells": 280,
         "privateEpisodes": 280,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 280,
         "monthsProvided": 12
       },
       {
@@ -2989,6 +3793,9 @@
         "lng": -1.23836,
         "privateSpells": 265,
         "privateEpisodes": 265,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 265,
         "monthsProvided": 12
       },
       {
@@ -3000,6 +3807,9 @@
         "lng": -1.5529515,
         "privateSpells": 265,
         "privateEpisodes": 265,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 265,
         "monthsProvided": 12
       },
       {
@@ -3011,6 +3821,9 @@
         "lng": -1.6234031,
         "privateSpells": 260,
         "privateEpisodes": 260,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 260,
         "monthsProvided": 9
       },
       {
@@ -3022,6 +3835,9 @@
         "lng": -1.1653701,
         "privateSpells": 260,
         "privateEpisodes": 260,
+        "nhsSpells": 2325,
+        "nhsEpisodes": 2325,
+        "allSpells": 2590,
         "monthsProvided": 12
       },
       {
@@ -3033,6 +3849,9 @@
         "lng": 0.2612536,
         "privateSpells": 260,
         "privateEpisodes": 260,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 260,
         "monthsProvided": 12
       },
       {
@@ -3044,6 +3863,9 @@
         "lng": 0.484683,
         "privateSpells": 250,
         "privateEpisodes": 250,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 250,
         "monthsProvided": 12
       },
       {
@@ -3055,6 +3877,9 @@
         "lng": -4.0201186,
         "privateSpells": 250,
         "privateEpisodes": 250,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -3066,6 +3891,9 @@
         "lng": 1.371756,
         "privateSpells": 245,
         "privateEpisodes": 245,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 245,
         "monthsProvided": 12
       },
       {
@@ -3077,6 +3905,9 @@
         "lng": 1.1321384,
         "privateSpells": 240,
         "privateEpisodes": 240,
+        "nhsSpells": 4180,
+        "nhsEpisodes": 4180,
+        "allSpells": 4415,
         "monthsProvided": 12
       },
       {
@@ -3088,6 +3919,9 @@
         "lng": -1.2149029,
         "privateSpells": 235,
         "privateEpisodes": 235,
+        "nhsSpells": 4345,
+        "nhsEpisodes": 4345,
+        "allSpells": 4580,
         "monthsProvided": 12
       },
       {
@@ -3099,6 +3933,9 @@
         "lng": -2.1735943,
         "privateSpells": 235,
         "privateEpisodes": 235,
+        "nhsSpells": 4380,
+        "nhsEpisodes": 4380,
+        "allSpells": 4615,
         "monthsProvided": 12
       },
       {
@@ -3110,6 +3947,9 @@
         "lng": -3.021581277304,
         "privateSpells": 230,
         "privateEpisodes": 230,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 230,
         "monthsProvided": 12
       },
       {
@@ -3121,6 +3961,9 @@
         "lng": -1.3969897,
         "privateSpells": 230,
         "privateEpisodes": 230,
+        "nhsSpells": 14875,
+        "nhsEpisodes": 14875,
+        "allSpells": 15100,
         "monthsProvided": 12
       },
       {
@@ -3132,6 +3975,9 @@
         "lng": -4.258511985014,
         "privateSpells": 225,
         "privateEpisodes": 225,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -3143,6 +3989,9 @@
         "lng": 0.3942356,
         "privateSpells": 225,
         "privateEpisodes": 225,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 225,
         "monthsProvided": 12
       },
       {
@@ -3154,6 +4003,9 @@
         "lng": -1.874339362284,
         "privateSpells": 220,
         "privateEpisodes": 220,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 220,
         "monthsProvided": 12
       },
       {
@@ -3165,6 +4017,9 @@
         "lng": -4.1201463,
         "privateSpells": 220,
         "privateEpisodes": 220,
+        "nhsSpells": 2600,
+        "nhsEpisodes": 2600,
+        "allSpells": 2825,
         "monthsProvided": 12
       },
       {
@@ -3176,6 +4031,9 @@
         "lng": -0.3059948,
         "privateSpells": 215,
         "privateEpisodes": 215,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 215,
         "monthsProvided": 12
       },
       {
@@ -3187,6 +4045,9 @@
         "lng": -0.6180017,
         "privateSpells": 215,
         "privateEpisodes": 215,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 215,
         "monthsProvided": 12
       },
       {
@@ -3198,6 +4059,9 @@
         "lng": -1.7987935,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": 700,
+        "nhsEpisodes": 700,
+        "allSpells": 915,
         "monthsProvided": 12
       },
       {
@@ -3209,6 +4073,9 @@
         "lng": 0.7504913,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -3220,6 +4087,9 @@
         "lng": -0.7116639,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -3231,6 +4101,9 @@
         "lng": -1.53676,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -3242,6 +4115,9 @@
         "lng": -2.062140692868,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -3253,6 +4129,9 @@
         "lng": -1.4761755,
         "privateSpells": 210,
         "privateEpisodes": 210,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -3264,6 +4143,9 @@
         "lng": 0.503582,
         "privateSpells": 205,
         "privateEpisodes": 205,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 205,
         "monthsProvided": 12
       },
       {
@@ -3275,6 +4157,9 @@
         "lng": -2.424896,
         "privateSpells": 205,
         "privateEpisodes": 205,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 205,
         "monthsProvided": 12
       },
       {
@@ -3286,6 +4171,9 @@
         "lng": 0.398437,
         "privateSpells": 195,
         "privateEpisodes": 195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 195,
         "monthsProvided": 12
       },
       {
@@ -3297,6 +4185,9 @@
         "lng": -0.1543777,
         "privateSpells": 195,
         "privateEpisodes": 195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 195,
         "monthsProvided": 12
       },
       {
@@ -3308,6 +4199,9 @@
         "lng": -2.921166,
         "privateSpells": 195,
         "privateEpisodes": 195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 195,
         "monthsProvided": 12
       },
       {
@@ -3319,6 +4213,9 @@
         "lng": 0.2613846,
         "privateSpells": 195,
         "privateEpisodes": 195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 195,
         "monthsProvided": 12
       },
       {
@@ -3330,6 +4227,9 @@
         "lng": -1.3457836,
         "privateSpells": 190,
         "privateEpisodes": 195,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 190,
         "monthsProvided": 12
       },
       {
@@ -3341,6 +4241,9 @@
         "lng": -1.82419,
         "privateSpells": 185,
         "privateEpisodes": 185,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 185,
         "monthsProvided": 12
       },
       {
@@ -3352,6 +4255,9 @@
         "lng": -2.9064185,
         "privateSpells": 185,
         "privateEpisodes": 185,
+        "nhsSpells": 465,
+        "nhsEpisodes": 465,
+        "allSpells": 655,
         "monthsProvided": 12
       },
       {
@@ -3363,6 +4269,9 @@
         "lng": -2.987779640534,
         "privateSpells": 185,
         "privateEpisodes": 185,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 185,
         "monthsProvided": 12
       },
       {
@@ -3374,6 +4283,9 @@
         "lng": -1.432487,
         "privateSpells": 175,
         "privateEpisodes": 175,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 175,
         "monthsProvided": 12
       },
       {
@@ -3385,6 +4297,9 @@
         "lng": -0.459583599,
         "privateSpells": 175,
         "privateEpisodes": 175,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 175,
         "monthsProvided": 12
       },
       {
@@ -3396,6 +4311,9 @@
         "lng": -0.1350274,
         "privateSpells": 170,
         "privateEpisodes": 170,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 170,
         "monthsProvided": 12
       },
       {
@@ -3407,6 +4325,9 @@
         "lng": -5.967628297411,
         "privateSpells": 170,
         "privateEpisodes": 170,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -3418,6 +4339,9 @@
         "lng": -3.5261904,
         "privateSpells": 170,
         "privateEpisodes": 170,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 170,
         "monthsProvided": 12
       },
       {
@@ -3429,6 +4353,9 @@
         "lng": -2.3773752,
         "privateSpells": 170,
         "privateEpisodes": 170,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 170,
         "monthsProvided": 12
       },
       {
@@ -3440,6 +4367,9 @@
         "lng": -2.5706822,
         "privateSpells": 165,
         "privateEpisodes": 165,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 165,
         "monthsProvided": 12
       },
       {
@@ -3451,6 +4381,9 @@
         "lng": -0.1096262,
         "privateSpells": 165,
         "privateEpisodes": 165,
+        "nhsSpells": 2300,
+        "nhsEpisodes": 2300,
+        "allSpells": 2465,
         "monthsProvided": 12
       },
       {
@@ -3462,6 +4395,9 @@
         "lng": -1.8813812,
         "privateSpells": 160,
         "privateEpisodes": 160,
+        "nhsSpells": 2640,
+        "nhsEpisodes": 2640,
+        "allSpells": 2800,
         "monthsProvided": 12
       },
       {
@@ -3473,6 +4409,9 @@
         "lng": -1.5321401,
         "privateSpells": 160,
         "privateEpisodes": 160,
+        "nhsSpells": 2795,
+        "nhsEpisodes": 2795,
+        "allSpells": 2955,
         "monthsProvided": 12
       },
       {
@@ -3484,6 +4423,9 @@
         "lng": -4.94854,
         "privateSpells": 160,
         "privateEpisodes": 160,
+        "nhsSpells": 4325,
+        "nhsEpisodes": 4325,
+        "allSpells": 4485,
         "monthsProvided": 12
       },
       {
@@ -3495,6 +4437,9 @@
         "lng": -2.7843157,
         "privateSpells": 155,
         "privateEpisodes": 155,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 155,
         "monthsProvided": 12
       },
       {
@@ -3506,6 +4451,9 @@
         "lng": -0.4065313,
         "privateSpells": 155,
         "privateEpisodes": 155,
+        "nhsSpells": 2650,
+        "nhsEpisodes": 2650,
+        "allSpells": 2810,
         "monthsProvided": 12
       },
       {
@@ -3517,6 +4465,9 @@
         "lng": -0.202323728185,
         "privateSpells": 155,
         "privateEpisodes": 155,
+        "nhsSpells": 580,
+        "nhsEpisodes": 580,
+        "allSpells": 730,
         "monthsProvided": 12
       },
       {
@@ -3528,6 +4479,9 @@
         "lng": -1.4283849,
         "privateSpells": 155,
         "privateEpisodes": 155,
+        "nhsSpells": 295,
+        "nhsEpisodes": 295,
+        "allSpells": 455,
         "monthsProvided": 12
       },
       {
@@ -3539,6 +4493,9 @@
         "lng": -1.0797611,
         "privateSpells": 155,
         "privateEpisodes": 155,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 155,
         "monthsProvided": 12
       },
       {
@@ -3550,6 +4507,9 @@
         "lng": 1.3697498,
         "privateSpells": 150,
         "privateEpisodes": 150,
+        "nhsSpells": 4950,
+        "nhsEpisodes": 4950,
+        "allSpells": 5100,
         "monthsProvided": 12
       },
       {
@@ -3561,6 +4521,9 @@
         "lng": -2.196473031723,
         "privateSpells": 150,
         "privateEpisodes": 150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 150,
         "monthsProvided": 12
       },
       {
@@ -3572,6 +4535,9 @@
         "lng": -2.7791025,
         "privateSpells": 150,
         "privateEpisodes": 150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 150,
         "monthsProvided": 12
       },
       {
@@ -3583,6 +4549,9 @@
         "lng": -0.2556101,
         "privateSpells": 150,
         "privateEpisodes": 150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 150,
         "monthsProvided": 12
       },
       {
@@ -3594,6 +4563,9 @@
         "lng": -1.1435137,
         "privateSpells": 145,
         "privateEpisodes": 145,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 145,
         "monthsProvided": 12
       },
       {
@@ -3605,6 +4577,9 @@
         "lng": -1.3723679,
         "privateSpells": 145,
         "privateEpisodes": 145,
+        "nhsSpells": 460,
+        "nhsEpisodes": 460,
+        "allSpells": 605,
         "monthsProvided": 12
       },
       {
@@ -3616,6 +4591,9 @@
         "lng": 0.118841438972,
         "privateSpells": 145,
         "privateEpisodes": 145,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 145,
         "monthsProvided": 12
       },
       {
@@ -3627,6 +4605,9 @@
         "lng": -0.960954099,
         "privateSpells": 140,
         "privateEpisodes": 140,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 140,
         "monthsProvided": 12
       },
       {
@@ -3638,6 +4619,9 @@
         "lng": -0.2618471,
         "privateSpells": 140,
         "privateEpisodes": 140,
+        "nhsSpells": 480,
+        "nhsEpisodes": 480,
+        "allSpells": 625,
         "monthsProvided": 12
       },
       {
@@ -3649,6 +4633,9 @@
         "lng": -0.805304999,
         "privateSpells": 140,
         "privateEpisodes": 140,
+        "nhsSpells": 565,
+        "nhsEpisodes": 565,
+        "allSpells": 705,
         "monthsProvided": 12
       },
       {
@@ -3660,6 +4647,9 @@
         "lng": -0.4686948,
         "privateSpells": 140,
         "privateEpisodes": 140,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 140,
         "monthsProvided": 12
       },
       {
@@ -3671,6 +4661,9 @@
         "lng": -0.7611006,
         "privateSpells": 135,
         "privateEpisodes": 135,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 135,
         "monthsProvided": 12
       },
       {
@@ -3682,6 +4675,9 @@
         "lng": -0.1248932,
         "privateSpells": 135,
         "privateEpisodes": 135,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 135,
         "monthsProvided": 12
       },
       {
@@ -3693,6 +4689,9 @@
         "lng": -1.6137916,
         "privateSpells": 135,
         "privateEpisodes": 135,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 135,
         "monthsProvided": 12
       },
       {
@@ -3704,6 +4703,9 @@
         "lng": -1.0740555,
         "privateSpells": 135,
         "privateEpisodes": 135,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 135,
         "monthsProvided": 12
       },
       {
@@ -3715,6 +4717,9 @@
         "lng": -1.2917746,
         "privateSpells": 130,
         "privateEpisodes": 130,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 130,
         "monthsProvided": 12
       },
       {
@@ -3726,6 +4731,9 @@
         "lng": -1.35507,
         "privateSpells": 130,
         "privateEpisodes": 130,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 130,
         "monthsProvided": 4
       },
       {
@@ -3737,6 +4745,9 @@
         "lng": -1.3063768,
         "privateSpells": 130,
         "privateEpisodes": 130,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 130,
         "monthsProvided": 12
       },
       {
@@ -3748,6 +4759,9 @@
         "lng": -2.715508,
         "privateSpells": 125,
         "privateEpisodes": 125,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 125,
         "monthsProvided": 12
       },
       {
@@ -3759,6 +4773,9 @@
         "lng": -1.5887417,
         "privateSpells": 120,
         "privateEpisodes": 120,
+        "nhsSpells": 3220,
+        "nhsEpisodes": 3220,
+        "allSpells": 3340,
         "monthsProvided": 12
       },
       {
@@ -3770,6 +4787,9 @@
         "lng": -1.1906537,
         "privateSpells": 115,
         "privateEpisodes": 115,
+        "nhsSpells": 2120,
+        "nhsEpisodes": 2120,
+        "allSpells": 2235,
         "monthsProvided": 12
       },
       {
@@ -3781,6 +4801,9 @@
         "lng": -1.9226384,
         "privateSpells": 115,
         "privateEpisodes": 115,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 115,
         "monthsProvided": 12
       },
       {
@@ -3792,6 +4815,9 @@
         "lng": -2.5681524,
         "privateSpells": 110,
         "privateEpisodes": 150,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 110,
         "monthsProvided": 12
       },
       {
@@ -3803,6 +4829,9 @@
         "lng": -2.9575861,
         "privateSpells": 110,
         "privateEpisodes": 110,
+        "nhsSpells": 595,
+        "nhsEpisodes": 595,
+        "allSpells": 705,
         "monthsProvided": 12
       },
       {
@@ -3814,6 +4843,9 @@
         "lng": -2.4381126,
         "privateSpells": 110,
         "privateEpisodes": 110,
+        "nhsSpells": 245,
+        "nhsEpisodes": 245,
+        "allSpells": 355,
         "monthsProvided": 12
       },
       {
@@ -3825,6 +4857,9 @@
         "lng": -0.8459247,
         "privateSpells": 110,
         "privateEpisodes": 110,
+        "nhsSpells": 455,
+        "nhsEpisodes": 455,
+        "allSpells": 565,
         "monthsProvided": 12
       },
       {
@@ -3836,6 +4871,9 @@
         "lng": 0.478807,
         "privateSpells": 110,
         "privateEpisodes": 110,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 110,
         "monthsProvided": 12
       },
       {
@@ -3847,6 +4885,9 @@
         "lng": 0.4685526999,
         "privateSpells": 105,
         "privateEpisodes": 105,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 105,
         "monthsProvided": 12
       },
       {
@@ -3858,6 +4899,9 @@
         "lng": -4.1157411,
         "privateSpells": 105,
         "privateEpisodes": 105,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 105,
         "monthsProvided": 12
       },
       {
@@ -3869,6 +4913,9 @@
         "lng": -0.408219,
         "privateSpells": 100,
         "privateEpisodes": 100,
+        "nhsSpells": 3325,
+        "nhsEpisodes": 3325,
+        "allSpells": 3425,
         "monthsProvided": 12
       },
       {
@@ -3880,6 +4927,9 @@
         "lng": -0.3741117,
         "privateSpells": 100,
         "privateEpisodes": 100,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 100,
         "monthsProvided": 9
       },
       {
@@ -3891,6 +4941,9 @@
         "lng": -1.3131402,
         "privateSpells": 95,
         "privateEpisodes": 95,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 95,
         "monthsProvided": 10
       },
       {
@@ -3902,6 +4955,9 @@
         "lng": -1.11525,
         "privateSpells": 95,
         "privateEpisodes": 95,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 95,
         "monthsProvided": 12
       },
       {
@@ -3913,6 +4969,9 @@
         "lng": 0.112107,
         "privateSpells": 95,
         "privateEpisodes": 95,
+        "nhsSpells": 7270,
+        "nhsEpisodes": 7270,
+        "allSpells": 7365,
         "monthsProvided": 12
       },
       {
@@ -3924,6 +4983,9 @@
         "lng": 1.0866394,
         "privateSpells": 95,
         "privateEpisodes": 95,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 95,
         "monthsProvided": 12
       },
       {
@@ -3935,6 +4997,9 @@
         "lng": 1.0820796,
         "privateSpells": 95,
         "privateEpisodes": 95,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 95,
         "monthsProvided": 12
       },
       {
@@ -3946,6 +5011,9 @@
         "lng": -1.932887,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": 420,
+        "nhsEpisodes": 420,
+        "allSpells": 510,
         "monthsProvided": 10
       },
       {
@@ -3957,6 +5025,9 @@
         "lng": -1.98087,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 90,
         "monthsProvided": 12
       },
       {
@@ -3968,6 +5039,9 @@
         "lng": -0.4744544,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": 420,
+        "nhsEpisodes": 420,
+        "allSpells": 510,
         "monthsProvided": 12
       },
       {
@@ -3979,6 +5053,9 @@
         "lng": -1.4237337,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": 245,
+        "nhsEpisodes": 245,
+        "allSpells": 335,
         "monthsProvided": 11
       },
       {
@@ -3990,6 +5067,9 @@
         "lng": -0.389094966887,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": 315,
+        "nhsEpisodes": 315,
+        "allSpells": 405,
         "monthsProvided": 12
       },
       {
@@ -4001,6 +5081,9 @@
         "lng": -0.5358106,
         "privateSpells": 90,
         "privateEpisodes": 90,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 90,
         "monthsProvided": 12
       },
       {
@@ -4012,6 +5095,9 @@
         "lng": -0.5458919,
         "privateSpells": 85,
         "privateEpisodes": 85,
+        "nhsSpells": 1275,
+        "nhsEpisodes": 1275,
+        "allSpells": 1360,
         "monthsProvided": 12
       },
       {
@@ -4023,6 +5109,9 @@
         "lng": -1.5111049,
         "privateSpells": 85,
         "privateEpisodes": 85,
+        "nhsSpells": 330,
+        "nhsEpisodes": 330,
+        "allSpells": 415,
         "monthsProvided": 12
       },
       {
@@ -4034,6 +5123,9 @@
         "lng": -5.0518393,
         "privateSpells": 85,
         "privateEpisodes": 85,
+        "nhsSpells": 365,
+        "nhsEpisodes": 365,
+        "allSpells": 450,
         "monthsProvided": 12
       },
       {
@@ -4045,6 +5137,9 @@
         "lng": -1.7289469,
         "privateSpells": 85,
         "privateEpisodes": 85,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 85,
         "monthsProvided": 12
       },
       {
@@ -4056,6 +5151,9 @@
         "lng": -0.601160799,
         "privateSpells": 80,
         "privateEpisodes": 80,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 80,
         "monthsProvided": 12
       },
       {
@@ -4067,6 +5165,9 @@
         "lng": -0.0773205,
         "privateSpells": 75,
         "privateEpisodes": 75,
+        "nhsSpells": 445,
+        "nhsEpisodes": 445,
+        "allSpells": 520,
         "monthsProvided": 12
       },
       {
@@ -4078,6 +5179,9 @@
         "lng": 1.2933419,
         "privateSpells": 70,
         "privateEpisodes": 80,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 70,
         "monthsProvided": 12
       },
       {
@@ -4089,6 +5193,9 @@
         "lng": 0.0165724,
         "privateSpells": 70,
         "privateEpisodes": 70,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 70,
         "monthsProvided": 7
       },
       {
@@ -4100,6 +5207,9 @@
         "lng": -1.16434,
         "privateSpells": 70,
         "privateEpisodes": 70,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 70,
         "monthsProvided": 12
       },
       {
@@ -4111,6 +5221,9 @@
         "lng": -2.6478277,
         "privateSpells": 65,
         "privateEpisodes": 75,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 65,
         "monthsProvided": 12
       },
       {
@@ -4122,6 +5235,9 @@
         "lng": -1.7977334,
         "privateSpells": 65,
         "privateEpisodes": 65,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 65,
         "monthsProvided": 12
       },
       {
@@ -4133,6 +5249,9 @@
         "lng": -2.1409834,
         "privateSpells": 65,
         "privateEpisodes": 65,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 65,
         "monthsProvided": 12
       },
       {
@@ -4144,6 +5263,9 @@
         "lng": 0.1169874,
         "privateSpells": 60,
         "privateEpisodes": 60,
+        "nhsSpells": 440,
+        "nhsEpisodes": 440,
+        "allSpells": 500,
         "monthsProvided": 12
       },
       {
@@ -4155,6 +5277,9 @@
         "lng": -0.1379047,
         "privateSpells": 60,
         "privateEpisodes": 60,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 60,
         "monthsProvided": 11
       },
       {
@@ -4166,6 +5291,9 @@
         "lng": -2.2728965,
         "privateSpells": 60,
         "privateEpisodes": 60,
+        "nhsSpells": 150,
+        "nhsEpisodes": 150,
+        "allSpells": 210,
         "monthsProvided": 12
       },
       {
@@ -4177,6 +5305,9 @@
         "lng": -0.7132756,
         "privateSpells": 60,
         "privateEpisodes": 60,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 60,
         "monthsProvided": 12
       },
       {
@@ -4188,6 +5319,9 @@
         "lng": -0.1484926,
         "privateSpells": 55,
         "privateEpisodes": 55,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 55,
         "monthsProvided": 10
       },
       {
@@ -4199,6 +5333,9 @@
         "lng": -2.8743524,
         "privateSpells": 55,
         "privateEpisodes": 55,
+        "nhsSpells": 370,
+        "nhsEpisodes": 370,
+        "allSpells": 425,
         "monthsProvided": 12
       },
       {
@@ -4210,6 +5347,9 @@
         "lng": -2.3232637,
         "privateSpells": 55,
         "privateEpisodes": 55,
+        "nhsSpells": 870,
+        "nhsEpisodes": 870,
+        "allSpells": 925,
         "monthsProvided": 12
       },
       {
@@ -4221,6 +5361,9 @@
         "lng": -1.92217,
         "privateSpells": 50,
         "privateEpisodes": 50,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 50,
         "monthsProvided": 12
       },
       {
@@ -4232,6 +5375,9 @@
         "lng": -1.7318954,
         "privateSpells": 50,
         "privateEpisodes": 50,
+        "nhsSpells": 565,
+        "nhsEpisodes": 565,
+        "allSpells": 610,
         "monthsProvided": 12
       },
       {
@@ -4243,6 +5389,9 @@
         "lng": -1.06196,
         "privateSpells": 50,
         "privateEpisodes": 50,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 50,
         "monthsProvided": 12
       },
       {
@@ -4254,6 +5403,9 @@
         "lng": -4.0242347,
         "privateSpells": 50,
         "privateEpisodes": 50,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 50,
         "monthsProvided": 12
       },
       {
@@ -4265,6 +5417,9 @@
         "lng": -0.176232,
         "privateSpells": 45,
         "privateEpisodes": 45,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 45,
         "monthsProvided": 12
       },
       {
@@ -4276,6 +5431,9 @@
         "lng": -0.3928361,
         "privateSpells": 40,
         "privateEpisodes": 40,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 40,
         "monthsProvided": 12
       },
       {
@@ -4287,6 +5445,9 @@
         "lng": -2.2940379,
         "privateSpells": 40,
         "privateEpisodes": 40,
+        "nhsSpells": 155,
+        "nhsEpisodes": 155,
+        "allSpells": 195,
         "monthsProvided": 11
       },
       {
@@ -4298,6 +5459,9 @@
         "lng": -2.8805638,
         "privateSpells": 40,
         "privateEpisodes": 40,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 40,
         "monthsProvided": 6
       },
       {
@@ -4309,6 +5473,9 @@
         "lng": 0.4760624,
         "privateSpells": 35,
         "privateEpisodes": 35,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 35,
         "monthsProvided": 12
       },
       {
@@ -4320,6 +5487,9 @@
         "lng": -1.91607,
         "privateSpells": 35,
         "privateEpisodes": 40,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 35,
         "monthsProvided": 12
       },
       {
@@ -4331,6 +5501,9 @@
         "lng": -0.4471587,
         "privateSpells": 30,
         "privateEpisodes": 30,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 30,
         "monthsProvided": 5
       },
       {
@@ -4342,6 +5515,9 @@
         "lng": -0.198006,
         "privateSpells": 25,
         "privateEpisodes": 25,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 25,
         "monthsProvided": 7
       },
       {
@@ -4353,6 +5529,9 @@
         "lng": -1.41676,
         "privateSpells": 25,
         "privateEpisodes": 25,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 25,
         "monthsProvided": 7
       },
       {
@@ -4364,6 +5543,9 @@
         "lng": -2.002685047955,
         "privateSpells": 25,
         "privateEpisodes": 25,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 25,
         "monthsProvided": 12
       },
       {
@@ -4375,6 +5557,9 @@
         "lng": 0.576568,
         "privateSpells": 25,
         "privateEpisodes": 25,
+        "nhsSpells": 6655,
+        "nhsEpisodes": 6655,
+        "allSpells": 6680,
         "monthsProvided": 12
       },
       {
@@ -4386,6 +5571,9 @@
         "lng": 0.923277,
         "privateSpells": 20,
         "privateEpisodes": 20,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 20,
         "monthsProvided": 5
       },
       {
@@ -4397,6 +5585,9 @@
         "lng": -0.283037,
         "privateSpells": 20,
         "privateEpisodes": 20,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 20,
         "monthsProvided": 12
       },
       {
@@ -4408,6 +5599,9 @@
         "lng": -2.1417018,
         "privateSpells": 20,
         "privateEpisodes": 20,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 20,
         "monthsProvided": 12
       },
       {
@@ -4419,6 +5613,9 @@
         "lng": -1.852349147884,
         "privateSpells": 20,
         "privateEpisodes": 20,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 20,
         "monthsProvided": 12
       },
       {
@@ -4430,6 +5627,9 @@
         "lng": -0.0406801,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 12
       },
       {
@@ -4441,6 +5641,9 @@
         "lng": -0.5958574,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 12
       },
       {
@@ -4452,6 +5655,9 @@
         "lng": -0.2016926,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 12
       },
       {
@@ -4463,6 +5669,9 @@
         "lng": -4.2666818,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 11
       },
       {
@@ -4474,6 +5683,9 @@
         "lng": -0.255158,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": 2370,
+        "nhsEpisodes": 2370,
+        "allSpells": 2385,
         "monthsProvided": 12
       },
       {
@@ -4485,6 +5697,9 @@
         "lng": -0.4953244,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": 2210,
+        "nhsEpisodes": 2210,
+        "allSpells": 2225,
         "monthsProvided": 12
       },
       {
@@ -4496,6 +5711,9 @@
         "lng": -1.4871743,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": 970,
+        "nhsEpisodes": 970,
+        "allSpells": 985,
         "monthsProvided": 12
       },
       {
@@ -4507,6 +5725,9 @@
         "lng": -1.15827,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 6
       },
       {
@@ -4518,6 +5739,9 @@
         "lng": 0.139114,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 12
       },
       {
@@ -4529,6 +5753,9 @@
         "lng": -0.519479,
         "privateSpells": 15,
         "privateEpisodes": 15,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 15,
         "monthsProvided": 12
       },
       {
@@ -4540,6 +5767,9 @@
         "lng": -1.060001,
         "privateSpells": 10,
         "privateEpisodes": 10,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 10,
         "monthsProvided": 12
       },
       {
@@ -4551,6 +5781,9 @@
         "lng": 0.4855864,
         "privateSpells": 10,
         "privateEpisodes": 10,
+        "nhsSpells": 3240,
+        "nhsEpisodes": 3250,
+        "allSpells": 3250,
         "monthsProvided": 12
       },
       {
@@ -4562,6 +5795,9 @@
         "lng": 0.395682,
         "privateSpells": 10,
         "privateEpisodes": 10,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 10,
         "monthsProvided": 4
       },
       {
@@ -4573,6 +5809,9 @@
         "lng": -1.85826,
         "privateSpells": 10,
         "privateEpisodes": 10,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 10,
         "monthsProvided": 6
       },
       {
@@ -4584,6 +5823,9 @@
         "lng": -0.14828,
         "privateSpells": 10,
         "privateEpisodes": 10,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": 10,
         "monthsProvided": 12
       },
       {
@@ -4595,6 +5837,9 @@
         "lng": -0.14818,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4606,6 +5851,9 @@
         "lng": -0.1490619,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4617,6 +5865,9 @@
         "lng": -1.42624,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4628,6 +5879,9 @@
         "lng": 0.257905,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4639,6 +5893,9 @@
         "lng": -5.985929899,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4650,6 +5907,9 @@
         "lng": -5.927607680361,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4661,6 +5921,9 @@
         "lng": 0.0697547999,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4672,6 +5935,9 @@
         "lng": -2.6897486,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4683,6 +5949,9 @@
         "lng": -2.1617344,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4694,6 +5963,9 @@
         "lng": 0.5667634,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4705,6 +5977,9 @@
         "lng": -0.192119103999,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4716,6 +5991,9 @@
         "lng": -2.1646755,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4727,6 +6005,9 @@
         "lng": -0.564307,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4738,6 +6019,9 @@
         "lng": -2.62166,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4749,6 +6033,9 @@
         "lng": -1.0932329,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4760,6 +6047,9 @@
         "lng": -0.1682346,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4771,6 +6061,9 @@
         "lng": -0.122001,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4782,6 +6075,9 @@
         "lng": -1.517279,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4793,6 +6089,9 @@
         "lng": -1.9245829,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 10
       },
       {
@@ -4804,6 +6103,9 @@
         "lng": -1.093416407856,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 3
       },
       {
@@ -4815,6 +6117,9 @@
         "lng": -2.2263857,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4826,6 +6131,9 @@
         "lng": -1.93289,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4837,6 +6145,9 @@
         "lng": 0.9272043999,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4848,6 +6159,9 @@
         "lng": -122.6783853,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 2
       },
       {
@@ -4859,6 +6173,9 @@
         "lng": -0.1469366,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4870,6 +6187,9 @@
         "lng": 0.121218,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4881,6 +6201,9 @@
         "lng": 0.435016,
         "privateSpells": 0,
         "privateEpisodes": 0,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4892,6 +6215,9 @@
         "lng": -0.150410733775,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4903,6 +6229,9 @@
         "lng": -3.51751,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 12
       },
       {
@@ -4914,6 +6243,9 @@
         "lng": 0.446967,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 0
       },
       {
@@ -4925,6 +6257,9 @@
         "lng": -0.6423863,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": 10410,
+        "nhsEpisodes": 10445,
+        "allSpells": 10415,
         "monthsProvided": 12
       },
       {
@@ -4936,6 +6271,9 @@
         "lng": -0.3048887,
         "privateSpells": null,
         "privateEpisodes": null,
+        "nhsSpells": null,
+        "nhsEpisodes": null,
+        "allSpells": null,
         "monthsProvided": 3
       }
     ]
