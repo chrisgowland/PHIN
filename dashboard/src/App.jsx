@@ -13,10 +13,12 @@ const TABS = [
   { id: 'consultants', label: 'Consultants' },
 ];
 
+const base = import.meta.env.BASE_URL;
+
 function useJSON(path) {
   const [data, setData] = useState(null);
   useEffect(() => {
-    fetch(path).then(r => r.json()).then(setData).catch(console.error);
+    fetch(`${base}${path}`).then(r => r.json()).then(setData).catch(console.error);
   }, [path]);
   return data;
 }
@@ -32,12 +34,12 @@ function formatPeriod(from, to) {
 export default function App() {
   const [activeTab, setActiveTab] = useState('overview');
 
-  const summary       = useJSON('/data/market_share_summary.json');
-  const specialty     = useJSON('/data/specialty_breakdown.json');
-  const groupSites    = useJSON('/data/group_site_summary.json');
-  const consultants   = useJSON('/data/top_consultants.json');
-  const siteProcIndex = useJSON('/data/site_procedure_index.json');
-  const procGroups    = useJSON('/data/procedure_groups.json');
+  const summary       = useJSON('data/market_share_summary.json');
+  const specialty     = useJSON('data/specialty_breakdown.json');
+  const groupSites    = useJSON('data/group_site_summary.json');
+  const consultants   = useJSON('data/top_consultants.json');
+  const siteProcIndex = useJSON('data/site_procedure_index.json');
+  const procGroups    = useJSON('data/procedure_groups.json');
 
   const period = summary ? formatPeriod(summary.periodFrom, summary.periodTo) : '';
 
