@@ -10,7 +10,7 @@ const TABS = [
   { id: 'overview',    label: 'Market Share Overview' },
   { id: 'specialty',   label: 'Specialty Breakdown' },
   { id: 'sites',       label: 'Hospital Sites' },
-  { id: 'geo',         label: 'Geographic Analysis' },
+  { id: 'geo',         label: 'Private Geography' },
   { id: 'nhs',         label: 'NHS Geography' },
   { id: 'consultants', label: 'Consultants' },
 ];
