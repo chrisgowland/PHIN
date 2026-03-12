@@ -354,6 +354,58 @@ const allProcedureGroups = [...new Set(
 console.log(`  Site-procedure index: ${siteProcIndex.length} sites, ${allProcedureGroups.length} procedure groups`);
 
 // ---------------------------------------------------------------------------
+// NHS site-procedure index (same shape as siteProcIndex but using nhsProcedures)
+// ---------------------------------------------------------------------------
+const nhsSiteProcMap = {};
+volBySiteProcInd.forEach(r => {
+  if (r.nhsProcedures === null) return;
+  if (!nhsSiteProcMap[r.siteId]) {
+    const meta = volBySiteInd.find(s => s.siteId === r.siteId) || {};
+    nhsSiteProcMap[r.siteId] = {
+      siteId: r.siteId,
+      siteName: r.siteName,
+      group: r.group,
+      city: meta.city || null,
+      region: meta.region || null,
+      lat: meta.lat || null,
+      lng: meta.lng || null,
+      procs: {},
+    };
+  }
+  nhsSiteProcMap[r.siteId].procs[r.procedureGroup] =
+    (nhsSiteProcMap[r.siteId].procs[r.procedureGroup] || 0) + r.nhsProcedures;
+});
+const nhsSiteProcIndex = Object.values(nhsSiteProcMap);
+
+// ---------------------------------------------------------------------------
+// NHS group site summary (same shape as compGroupSummary but using nhsSpells)
+// ---------------------------------------------------------------------------
+const nhsGroupSummary = {};
+GROUP_ORDER.forEach(g => {
+  const sites = volBySiteInd.filter(r => r.group === g);
+  nhsGroupSummary[g] = {
+    group: g,
+    siteCount: sites.length,
+    totalNhsSpells: sites.reduce((s, r) => s + (r.nhsSpells || 0), 0),
+    sites: sites
+      .sort((a, b) => (b.nhsSpells || 0) - (a.nhsSpells || 0))
+      .map(r => ({
+        siteId: r.siteId,
+        siteName: r.siteName,
+        city: r.city,
+        region: r.region,
+        lat: r.lat,
+        lng: r.lng,
+        nhsSpells: r.nhsSpells,
+        nhsEpisodes: r.nhsEpisodes,
+        monthsProvided: r.monthsProvided,
+      })),
+  };
+});
+
+console.log(`  NHS site-procedure index: ${nhsSiteProcIndex.length} sites`);
+
+// ---------------------------------------------------------------------------
 // Write outputs
 // ---------------------------------------------------------------------------
 function writeJSON(filename, data) {
@@ -373,6 +425,8 @@ writeJSON('site_procedure_index.json', siteProcIndex);
 writeJSON('procedure_groups.json', allProcedureGroups);
 writeJSON('vol_by_consultant.json', volByConsultant);
 writeJSON('vol_by_consultant_and_proc.json', volByConsultantProc);
+writeJSON('nhs_site_procedure_index.json', nhsSiteProcIndex);
+writeJSON('nhs_group_site_summary.json', nhsGroupSummary);
 
 console.log('\n✓ Pipeline complete');
 console.log(`  Period: ${periodFrom} to ${periodTo}`);

@@ -4,12 +4,14 @@ import SpecialtyBreakdown from './components/SpecialtyBreakdown';
 import SiteDetail from './components/SiteDetail';
 import ConsultantView from './components/ConsultantView';
 import GeoAnalysis from './components/GeoAnalysis';
+import NhsGeoAnalysis from './components/NhsGeoAnalysis';
 
 const TABS = [
   { id: 'overview',    label: 'Market Share Overview' },
   { id: 'specialty',   label: 'Specialty Breakdown' },
   { id: 'sites',       label: 'Hospital Sites' },
   { id: 'geo',         label: 'Geographic Analysis' },
+  { id: 'nhs',         label: 'NHS Geography' },
   { id: 'consultants', label: 'Consultants' },
 ];
 
@@ -34,12 +36,14 @@ function formatPeriod(from, to) {
 export default function App() {
   const [activeTab, setActiveTab] = useState('overview');
 
-  const summary       = useJSON('data/market_share_summary.json');
-  const specialty     = useJSON('data/specialty_breakdown.json');
-  const groupSites    = useJSON('data/group_site_summary.json');
-  const consultants   = useJSON('data/top_consultants.json');
-  const siteProcIndex = useJSON('data/site_procedure_index.json');
-  const procGroups    = useJSON('data/procedure_groups.json');
+  const summary          = useJSON('data/market_share_summary.json');
+  const specialty        = useJSON('data/specialty_breakdown.json');
+  const groupSites       = useJSON('data/group_site_summary.json');
+  const consultants      = useJSON('data/top_consultants.json');
+  const siteProcIndex    = useJSON('data/site_procedure_index.json');
+  const procGroups       = useJSON('data/procedure_groups.json');
+  const nhsSiteProcIndex = useJSON('data/nhs_site_procedure_index.json');
+  const nhsGroupSites    = useJSON('data/nhs_group_site_summary.json');
 
   const period = summary ? formatPeriod(summary.periodFrom, summary.periodTo) : '';
 
@@ -74,6 +78,12 @@ export default function App() {
             siteProcIndex={siteProcIndex}
             procedureGroups={procGroups}
             groupSiteData={groupSites}
+          />
+        )}
+        {activeTab === 'nhs'         && (
+          <NhsGeoAnalysis
+            nhsSiteProcIndex={nhsSiteProcIndex}
+            nhsGroupSiteData={nhsGroupSites}
           />
         )}
         {activeTab === 'consultants' && <ConsultantView data={consultants} />}
