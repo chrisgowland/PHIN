@@ -5,6 +5,7 @@ import SiteDetail from './components/SiteDetail';
 import ConsultantView from './components/ConsultantView';
 import GeoAnalysis from './components/GeoAnalysis';
 import NhsGeoAnalysis from './components/NhsGeoAnalysis';
+import SiteChart from './components/SiteChart';
 
 const TABS = [
   { id: 'overview',    label: 'Market Share Overview' },
@@ -12,6 +13,7 @@ const TABS = [
   { id: 'sites',       label: 'Hospital Sites' },
   { id: 'geo',         label: 'Private Geography' },
   { id: 'nhs',         label: 'NHS Geography' },
+  { id: 'chart',       label: 'Site Chart' },
   { id: 'consultants', label: 'Consultants' },
 ];
 
@@ -84,6 +86,13 @@ export default function App() {
           <NhsGeoAnalysis
             nhsSiteProcIndex={nhsSiteProcIndex}
             nhsGroupSiteData={nhsGroupSites}
+          />
+        )}
+        {activeTab === 'chart'       && (
+          <SiteChart
+            siteProcIndex={siteProcIndex}
+            nhsSiteProcIndex={nhsSiteProcIndex}
+            groupSiteData={groupSites}
           />
         )}
         {activeTab === 'consultants' && <ConsultantView data={consultants} />}
