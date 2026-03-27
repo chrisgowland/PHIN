@@ -223,7 +223,7 @@ export default function SiteChart({ siteProcIndex, nhsSiteProcIndex, groupSiteDa
         </div>
         <div style={{ padding: '24px 20px 32px' }}>
           <ResponsiveContainer width="100%" height={520}>
-            <ScatterChart margin={{ top: 20, right: 40, bottom: 60, left: 60 }}>
+            <ScatterChart margin={{ top: 40, right: 60, bottom: 60, left: 60 }}>
               <CartesianGrid strokeDasharray="3 3" stroke="#e0e4ea" />
               <XAxis
                 type="number"
@@ -262,7 +262,7 @@ export default function SiteChart({ siteProcIndex, nhsSiteProcIndex, groupSiteDa
               <Tooltip content={<ChartTooltip />} cursor={{ strokeDasharray: '3 3' }} />
               <Scatter
                 data={chartData}
-                shape={<CustomDot />}
+                shape={(props) => <CustomDot {...props} />}
               />
             </ScatterChart>
           </ResponsiveContainer>
