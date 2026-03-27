@@ -48,9 +48,25 @@ function ChartTooltip({ active, payload }) {
 function CustomDot(props) {
   const { cx, cy, payload } = props;
   if (cx === undefined || cy === undefined) return null;
+  // Shorten label: strip "Nuffield Health" prefix and common suffixes
+  const label = payload.siteName
+    .replace(/^Nuffield Health\s*/i, '')
+    .replace(/\s*(Hospital|Clinic|Centre|Center)\s*$/i, '')
+    .trim();
   return (
     <g>
-      <circle cx={cx} cy={cy} r={7} fill={NUFFIELD_COLOR} fillOpacity={0.8} stroke="white" strokeWidth={1.5} />
+      <circle cx={cx} cy={cy} r={6} fill={NUFFIELD_COLOR} fillOpacity={0.85} stroke="white" strokeWidth={1.5} />
+      <text
+        x={cx}
+        y={cy - 10}
+        textAnchor="middle"
+        fontSize={10}
+        fill={NUFFIELD_COLOR}
+        fontWeight={600}
+        style={{ pointerEvents: 'none' }}
+      >
+        {label}
+      </text>
     </g>
   );
 }
